@@ -1,0 +1,59 @@
+[
+  {
+    "title": "Avengers: Endgame",
+    "description": "The grave course of events set in motion by Thanos that wiped out half the universe and fractured the Avengers ranks compels the remaining Avengers to take one final stand in Marvel Studios grand conclusion to twenty-two films, 'Avengers: Endgame.'",
+    "director": "Anthony Russo, Joe Russo",
+    "writer": "Christopher Markus, Stephen McFeely, Stan Lee, Jack Kirby, Jim Starlin",
+    "language": "English",
+    "year": 2000,
+    "actors": "Bradley Cooper, Brie Larson, Chris Hemsworth, Chris Evans",
+    "country": "USA",
+    "production": "Marvel Studios",
+    "category": "Action, Adventure, Fantasy, Sci-Fi",
+    "rewrite": "avengers-endgame",
+    "website": "String",
+    "type": "Movie",
+    "media": {
+      "logo": "https://m.media-amazon.com/images/M/MV5BNGZiMzBkZjMtNjE3Mi00MWNlLWIyYjItYTk3MjY0Yjg5ODZkXkEyXkFqcGdeQXVyNDg4NjY5OTQ@._V1_SX300.jpg",
+      "poster1x1": "https://m.media-amazon.com/images/M/MV5BNGZiMzBkZjMtNjE3Mi00MWNlLWIyYjItYTk3MjY0Yjg5ODZkXkEyXkFqcGdeQXVyNDg4NjY5OTQ@._V1_SX300.jpg",
+      "poster16x9": "https://m.media-amazon.com/images/M/MV5BNGZiMzBkZjMtNjE3Mi00MWNlLWIyYjItYTk3MjY0Yjg5ODZkXkEyXkFqcGdeQXVyNDg4NjY5OTQ@._V1_SX300.jpg",
+      "clip": "https://m.media-amazon.com/images/M/MV5BNGZiMzBkZjMtNjE3Mi00MWNlLWIyYjItYTk3MjY0Yjg5ODZkXkEyXkFqcGdeQXVyNDg4NjY5OTQ@._V1_SX300.jpg",
+      "trailer": "https://m.media-amazon.com/images/M/MV5BNGZiMzBkZjMtNjE3Mi00MWNlLWIyYjItYTk3MjY0Yjg5ODZkXkEyXkFqcGdeQXVyNDg4NjY5OTQ@._V1_SX300.jpg",
+      "timeStampClip": "String",
+      "timeStampTrailer": "String"
+    },
+    "meta": {
+      "votes": 1,
+      "ratings":  5
+    } 
+  },
+  {
+    "title": "Men in Black",
+    "description": "'Men in Black: International' stars Chris Hemsworth, Tessa Thompson, and Kumail Nanjiani talk to IMDb about on-screen chemistry, and reveal the movie aliens they would like to add to the Men in Black Universe. The Men in Black have always protected the Earth from the scum of the universe. In this new adventure, they tackle their biggest threat to date: a mole in the Men in Black organization.",
+    "director": "F. Gary Gray",
+    "writer": "Matt Holloway, Art Marcum",
+    "language": "English",
+    "year": 2010,
+    "actors": "Bradley Cooper, Brie Larson, Chris Hemsworth, Chris Evans",
+    "country": "USA",
+    "production": "Marvel Studios",
+    "category": "Action, Adventure, Fantasy, Sci-Fi",
+    "rewrite": "men-in-black",
+    "website": "String",
+    "type": "Movie",
+    "media": {
+      "logo": "https://m.media-amazon.com/images/M/MV5BNGZiMzBkZjMtNjE3Mi00MWNlLWIyYjItYTk3MjY0Yjg5ODZkXkEyXkFqcGdeQXVyNDg4NjY5OTQ@._V1_SX300.jpg",
+      "poster1x1": "https://m.media-amazon.com/images/M/MV5BNGZiMzBkZjMtNjE3Mi00MWNlLWIyYjItYTk3MjY0Yjg5ODZkXkEyXkFqcGdeQXVyNDg4NjY5OTQ@._V1_SX300.jpg",
+      "poster16x9": "https://m.media-amazon.com/images/M/MV5BNGZiMzBkZjMtNjE3Mi00MWNlLWIyYjItYTk3MjY0Yjg5ODZkXkEyXkFqcGdeQXVyNDg4NjY5OTQ@._V1_SX300.jpg",
+      "clip": "https://m.media-amazon.com/images/M/MV5BNGZiMzBkZjMtNjE3Mi00MWNlLWIyYjItYTk3MjY0Yjg5ODZkXkEyXkFqcGdeQXVyNDg4NjY5OTQ@._V1_SX300.jpg",
+      "trailer": "https://m.media-amazon.com/images/M/MV5BNGZiMzBkZjMtNjE3Mi00MWNlLWIyYjItYTk3MjY0Yjg5ODZkXkEyXkFqcGdeQXVyNDg4NjY5OTQ@._V1_SX300.jpg",
+      "timeStampClip": "String",
+      "timeStampTrailer": "String"
+    },
+    "meta": {
+      "votes": 1,
+      "ratings":  5
+    } 
+  }  
+]
+
