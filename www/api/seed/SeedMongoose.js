@@ -30,7 +30,7 @@ connect = async (url) => {
 }
 
 //clean collection
-clean = async (Model) => {
+clean = (Model) => {
   return new Promise((resolve, reject) => {
     Model.deleteMany({}, (err, data) => {
       if (!err) {
@@ -43,7 +43,7 @@ clean = async (Model) => {
 }
 
 //populate collection
-populate = async (Model, data) => {
+populate = (Model, data) => {
   return new Promise((resolve, reject) => {
     Model.create(data, (err, data) => {
       if (!err) {
@@ -89,7 +89,7 @@ loadModels = async (models) => {
 //list result models
 result = async () => {
   console.log("Success process completed!");
-  console.log("List modules:");
+  console.log("Modules processed:");
   console.log(_models);
 }
 

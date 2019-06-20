@@ -1,0 +1,1151 @@
+[
+  {
+    "title": "Avengers: Endgame",
+    "description": "The grave course of events set in motion by Thanos that wiped out half the universe and fractured the Avengers ranks compels the remaining Avengers to take one final stand in Marvel Studios grand conclusion to twenty-two films, 'Avengers: Endgame.'",
+    "director": "Anthony Russo, Joe Russo",
+    "writer": "Christopher Markus, Stephen McFeely, Stan Lee, Jack Kirby, Jim Starlin",
+    "language": "English",
+    "year": 2000,
+    "actors": "Bradley Cooper, Brie Larson, Chris Hemsworth, Chris Evans",
+    "country": "USA",
+    "production": "Marvel Studios",
+    "category": "Action, Adventure, Fantasy, Sci-Fi",
+    "rewrite": "avengers-endgame",
+    "website": "https://moviesanywhere.com/movie/marvel-studios-avengers-endgame",
+    "type": "Movie",
+    "media": {
+      "poster": "http://localhost:8080/app/images/cartaz2.jpg",
+      "image": "http://localhost:8080/app/images/16x9.jpg",
+      "clip": "https://m.media-amazon.com/images/M/MV5BNGZiMzBkZjMtNjE3Mi00MWNlLWIyYjItYTk3MjY0Yjg5ODZkXkEyXkFqcGdeQXVyNDg4NjY5OTQ@._V1_SX300.jpg",
+      "trailer": "https://m.media-amazon.com/images/M/MV5BNGZiMzBkZjMtNjE3Mi00MWNlLWIyYjItYTk3MjY0Yjg5ODZkXkEyXkFqcGdeQXVyNDg4NjY5OTQ@._V1_SX300.jpg",
+      "timestampClip": "String",
+      "timestampTrailer": "String"
+    },
+    "meta": {
+      "likes": 0,
+      "stars": 0,
+      "views": 0
+    } 
+  },
+  {
+    "title": "Men in Black",
+    "description": "'Men in Black: International' stars Chris Hemsworth, Tessa Thompson, and Kumail Nanjiani talk to IMDb about on-screen chemistry, and reveal the movie aliens they would like to add to the Men in Black Universe. The Men in Black have always protected the Earth from the scum of the universe. In this new adventure, they tackle their biggest threat to date: a mole in the Men in Black organization.",
+    "director": "F. Gary Gray",
+    "writer": "Matt Holloway, Art Marcum",
+    "language": "English",
+    "year": 2010,
+    "actors": "Bradley Cooper, Brie Larson, Chris Hemsworth, Chris Evans",
+    "country": "USA",
+    "production": "Marvel Studios",
+    "category": "Action, Adventure, Fantasy, Sci-Fi",
+    "rewrite": "men-in-black",
+    "website": "https://moviesanywhere.com/movie/men-in-black",
+    "type": "Movie",
+    "media": {
+      "poster": "http://localhost:8080/app/images/cartaz.jpg",
+      "image": "http://localhost:8080/app/images/16x9.jpg",
+      "clip": "https://m.media-amazon.com/images/M/MV5BNGZiMzBkZjMtNjE3Mi00MWNlLWIyYjItYTk3MjY0Yjg5ODZkXkEyXkFqcGdeQXVyNDg4NjY5OTQ@._V1_SX300.jpg",
+      "trailer": "https://m.media-amazon.com/images/M/MV5BNGZiMzBkZjMtNjE3Mi00MWNlLWIyYjItYTk3MjY0Yjg5ODZkXkEyXkFqcGdeQXVyNDg4NjY5OTQ@._V1_SX300.jpg",
+      "timestampClip": "String",
+      "timestampTrailer": "String"
+    },
+    "meta": {
+      "likes": 0,
+      "stars": 0,
+      "views": 0      
+    } 
+  },
+  {
+    "title": "Cinderella",
+    "description": "Now part of the Walt Disney Signature Collection and the prestigious National Film Registry, Disney’s animated classic Cinderella is beloved by generations of fans for its timeless story, unforgettable characters and iconic artistry. Share the magic as kind and hardworking Cinderella is rewarded with an enchanted evening at the Royal Ball. It just takes the help of her loyal animal friends Jaq and Gus, a wave of her Fairy Godmother’s wand and some “Bibbidi-Bobbidi-Boo.” Celebrate the legacy of Disney’s classic animation in Cinderella, where dreams really do come true!",
+    "director": "Wilfred Jackson, Hamilton Luske, Clyde Geronimi",
+    "writer": "William Peed, Ted Sears, Homer Brightman, Kenneth Anderson, Erdman Penner, Winston Hibler, Harry Reeves, Joe Rinaldi",
+    "language": "English",
+    "year": 2019,
+    "actors": "Ilene Woods, Eleanor Audley, Verna Felton, Rhoda Williams, James MacDonald, James MacDonald, Luis Van Rooten, Luis Van Rooten, Don Barclay, Claire DuBrey, Helene Stanley",
+    "country": "USA",
+    "production": "Walt Disney Pictures",
+    "category": "Musical, Animation, Classics, Fantasy, Family, Romance",
+    "rewrite": "cinderella",
+    "website": "https://moviesanywhere.com/movie/Cinderella-1950-signature",
+    "type": "Movie",
+    "media": {
+      "poster": "http://localhost:8080/app/images/cartaz2.jpg",
+      "image": "http://localhost:8080/app/images/16x9.jpg",
+      "clip": "https://m.media-amazon.com/images/M/MV5BNGZiMzBkZjMtNjE3Mi00MWNlLWIyYjItYTk3MjY0Yjg5ODZkXkEyXkFqcGdeQXVyNDg4NjY5OTQ@._V1_SX300.jpg",
+      "trailer": "https://m.media-amazon.com/images/M/MV5BNGZiMzBkZjMtNjE3Mi00MWNlLWIyYjItYTk3MjY0Yjg5ODZkXkEyXkFqcGdeQXVyNDg4NjY5OTQ@._V1_SX300.jpg",
+      "timestampClip": "String",
+      "timestampTrailer": "String"
+    },
+    "meta": {
+      "likes": 0,
+      "stars": 0,
+      "views": 0
+    } 
+  },
+  {
+    "title": "The Aftermath",
+    "description": "In postwar Germany in 1946, Rachael Morgan (Keira Knightley) arrives in the ruins of Hamburg to be reunited with her husband Lewis (Jason Clarke), a British colonel who’s rebuilding the city. Rachael learns they now share their home with a German widower (Alexander Skarsgård) and his troubled daughter. In this charged setting, enmity and grief give way to passion and betrayal.",
+    "director": "James Kent",
+    "writer": "Joe Shrapnel, Anna Waterhouse, Rhidian Brook",
+    "language": "English",
+    "year": 2018,
+    "actors": "Keira Knightley, Alexander Skarsgard, Jason Clarke",
+    "country": "USA",
+    "production": "BBC Films",
+    "category": "Romance, Adventure",
+    "rewrite": "the-aftermath-2019",
+    "website": "https://moviesanywhere.com/movie/the-aftermath-2019",
+    "type": "Movie",
+    "media": {
+      "poster": "http://localhost:8080/app/images/cartaz.jpg",
+      "image": "http://localhost:8080/app/images/16x9.jpg",
+      "clip": "https://m.media-amazon.com/images/M/MV5BNGZiMzBkZjMtNjE3Mi00MWNlLWIyYjItYTk3MjY0Yjg5ODZkXkEyXkFqcGdeQXVyNDg4NjY5OTQ@._V1_SX300.jpg",
+      "trailer": "https://m.media-amazon.com/images/M/MV5BNGZiMzBkZjMtNjE3Mi00MWNlLWIyYjItYTk3MjY0Yjg5ODZkXkEyXkFqcGdeQXVyNDg4NjY5OTQ@._V1_SX300.jpg",
+      "timestampClip": "String",
+      "timestampTrailer": "String"
+    },
+    "meta": {
+      "likes": 0,
+      "stars": 0,
+      "views": 0
+    } 
+  },
+  {
+    "title": "US",
+    "description": "From Academy Award®-winning visionary Jordan Peele comes another original nightmare. Starring Oscar® winner Lupita Nyong'o (12 Years a Slave) and Winston Duke (Black Panther), an endearing American family is pitted against a terrifying and uncanny opponent: doppelgängers of themselves.",
+    "director": "Jordan Peele",
+    "writer": "Jordan Peele",
+    "language": "English",
+    "year": 2019,
+    "actors": "Lupita Nyong'o, Winston Duke, Elisabeth Moss, Tim Heidecker",
+    "country": "USA",
+    "production": "Universal Studios",
+    "category": "Horror, Thriller, Sci-Fi",
+    "rewrite": "us-2019",
+    "website": "https://moviesanywhere.com/movie/us-2019",
+    "type": "Movie",
+    "media": {
+      "poster": "http://localhost:8080/app/images/cartaz2.jpg",
+      "image": "http://localhost:8080/app/images/16x9.jpg",
+      "clip": "https://m.media-amazon.com/images/M/MV5BNGZiMzBkZjMtNjE3Mi00MWNlLWIyYjItYTk3MjY0Yjg5ODZkXkEyXkFqcGdeQXVyNDg4NjY5OTQ@._V1_SX300.jpg",
+      "trailer": "https://m.media-amazon.com/images/M/MV5BNGZiMzBkZjMtNjE3Mi00MWNlLWIyYjItYTk3MjY0Yjg5ODZkXkEyXkFqcGdeQXVyNDg4NjY5OTQ@._V1_SX300.jpg",
+      "timestampClip": "String",
+      "timestampTrailer": "String"
+    },
+    "meta": {
+      "likes": 0,
+      "stars": 0,
+      "views": 0
+    } 
+  },
+  {
+    "title": "Apollo 11",
+    "description": "From director Todd Douglas Miller (Dinosaur 13) comes a cinematic event 50 years in the making. Crafted from a newly discovered trove of 65mm footage, and more than 11,000 hours of uncatalogued audio recordings, Apollo 11 takes us straight to the heart of NASA's most celebrated mission—the one that first put men on the moon, and forever made Neil Armstrong and Buzz Aldrin into household names. Immersed in the perspectives of the astronauts, the team in Mission Control, and the millions of spectators on the ground, we vividly experience those momentous days and hours in 1969 when humankind took a giant leap into the future.",
+    "director": "Todd Douglas Miller",
+    "writer": "Todd Douglas Miller",
+    "language": "English",
+    "year": 2019,
+    "actors": "Todd Douglas Miller, Thomas Petersen, Evan Krauss",
+    "country": "USA",
+    "production": "Universal Studios",
+    "category": "Documentary, Educational, Drama",
+    "rewrite": "apollo-11-2019",
+    "website": "https://moviesanywhere.com/movie/apollo-11-2019",
+    "type": "Movie",
+    "media": {
+      "poster": "http://localhost:8080/app/images/cartaz.jpg",
+      "image": "http://localhost:8080/app/images/16x9.jpg",
+      "clip": "https://m.media-amazon.com/images/M/MV5BNGZiMzBkZjMtNjE3Mi00MWNlLWIyYjItYTk3MjY0Yjg5ODZkXkEyXkFqcGdeQXVyNDg4NjY5OTQ@._V1_SX300.jpg",
+      "trailer": "https://m.media-amazon.com/images/M/MV5BNGZiMzBkZjMtNjE3Mi00MWNlLWIyYjItYTk3MjY0Yjg5ODZkXkEyXkFqcGdeQXVyNDg4NjY5OTQ@._V1_SX300.jpg",
+      "timestampClip": "String",
+      "timestampTrailer": "String"
+    },
+    "meta": {
+      "likes": 0,
+      "stars": 0,
+      "views": 0
+    } 
+  },
+  {
+    "title": "Hotel Mumbai",
+    "description": "A true story of humanity and heroism, Hotel Mumbai vividly recounts the 2008 siege of the famed Taj Hotel by a group of terrorists in Mumbai, India. Among the dedicated hotel staff is the renowned chef Hemant Oberoi (Anupam Kher) and a waiter (Academy Award nominee Dev Patel, Slumdog Millionaire) who choose to risk their lives to protect their guests. As the world watches on, a desperate couple (Armie Hammer, Call Me By Your Name and Nazanin Boniadi, 'Homeland') is forced to make unthinkable sacrifices to protect their newborn child. Critics are hailing this film is 'intense, hair-raising, and deeply humane… a suspenseful achievement' (New York Observer).",
+    "director": "Anthony Maras",
+    "writer": "John Collee, Anthony Maras",
+    "language": "English",
+    "year": 2019,
+    "actors": "Armie Hammer, Dev Patel, Nazanin Boniadi, Tilda Cobham-Hervey, Anupam Kher, Jason Isaacs",
+    "country": "USA",
+    "production": "Bleecker Street Media LLC",
+    "category": "Drama, Thriller, Independent",
+    "rewrite": "hotel-mumbai",
+    "website": "https://moviesanywhere.com/movie/hotel-mumbai-2019",
+    "type": "Movie",
+    "media": {
+      "poster": "http://localhost:8080/app/images/cartaz.jpg",
+      "image": "http://localhost:8080/app/images/16x9.jpg",
+      "clip": "https://m.media-amazon.com/images/M/MV5BNGZiMzBkZjMtNjE3Mi00MWNlLWIyYjItYTk3MjY0Yjg5ODZkXkEyXkFqcGdeQXVyNDg4NjY5OTQ@._V1_SX300.jpg",
+      "trailer": "https://m.media-amazon.com/images/M/MV5BNGZiMzBkZjMtNjE3Mi00MWNlLWIyYjItYTk3MjY0Yjg5ODZkXkEyXkFqcGdeQXVyNDg4NjY5OTQ@._V1_SX300.jpg",
+      "timestampClip": "String",
+      "timestampTrailer": "String"
+    },
+    "meta": {
+      "likes": 0,
+      "stars": 0,
+      "views": 0
+    } 
+  },
+  {
+    "title": "Captive State",
+    "description": "A decade since an extraterrestrial force has occupied our planet, deceiving humanity with the promise of peace and unity, Chicago Police Officer William Mulligan (John Goodman, 10 Cloverfield Lane) is tasked with maintaining law and order in a city on the brink of rebellion. Gabriel (Ashton Sanders, Moonlight); the young brother of a fallen militant and the son of Mulligan's ex-partner, is faced with the crucial choice: Collaborate... or fight back. Also starring Vera Farmiga (TV's Bates Motel), Captive State is unlike any future world ever imagined.",
+    "director": "Rupert Wyatt",
+    "writer": "Erica Beeney, Rupert Wyatt",
+    "language": "English",
+    "year": 2019,
+    "actors": "John Goodman, Ashton Sanders, Jonathan Majors, Colson Baker, Vera Farmiga",
+    "country": "USA",
+    "production": "Focus Features",
+    "category": "Sci-Fi, Thriller",
+    "rewrite": "captive-state",
+    "website": "https://moviesanywhere.com/movie/captive-state-2019",
+    "type": "Movie",
+    "media": {
+      "poster": "http://localhost:8080/app/images/cartaz.jpg",
+      "image": "http://localhost:8080/app/images/16x9.jpg",
+      "clip": "https://m.media-amazon.com/images/M/MV5BNGZiMzBkZjMtNjE3Mi00MWNlLWIyYjItYTk3MjY0Yjg5ODZkXkEyXkFqcGdeQXVyNDg4NjY5OTQ@._V1_SX300.jpg",
+      "trailer": "https://m.media-amazon.com/images/M/MV5BNGZiMzBkZjMtNjE3Mi00MWNlLWIyYjItYTk3MjY0Yjg5ODZkXkEyXkFqcGdeQXVyNDg4NjY5OTQ@._V1_SX300.jpg",
+      "timestampClip": "String",
+      "timestampTrailer": "String"
+    },
+    "meta": {
+      "likes": 0,
+      "stars": 0,
+      "views": 0
+    } 
+  },
+  {
+    "title": "I am Duran",
+    "description": "Featuring: Roberto Durán, Mike Tyson, Sylvester Stallone, Robert De Niro, Don King, Oscar De La Hoya, Marvin Hagler and Sugar Ray Leonard. Roberto Durán is a boxing behemoth, a titanic figure with a career straddling five epic decades who is regarded as one of the most entertaining and skilled fighters of all time. I Am Durán tells his story, inextricably interwoven with the story of the nation of Panama. As Roberto Durán rose, fell, and rose again, staggering between glory and disaster, buffeted by the brutal blows of his opponents and of life itself – so did his beloved Panama. A country brought to its knees as a pawn in violent regional and international politics and suffering from the harsh yoke of dictator Manuel Noriega's ruthless regime, in its darkest hour Panama needed a hero, a voice, and an identity. Roberto Durán's impact transcended boxing and politics. Born a fighter, his success inside the ring transformed him into an icon, yet it was his flaws and failures outside the ring that made him a hero and continue to ensure that his universal appeal and popularity endure to this day.",
+    "director": "Mat Hodgson",
+    "writer": "Mat Hodgson, Daniel Glynn, Patrick Nathanson, Andrew Baker, Louis Paltnoi",
+    "language": "English",
+    "year": 2019,
+    "actors": "Roberto Duran, Mike Tyson, Sylvester Stallone, Robert De Niro, Don King, Oscar De La Hoya, Marvin Hagler, Sugar Ray Leonard",
+    "country": "USA",
+    "production": "Duran Films Limited",
+    "category": "Sports, Documentary, Biopic",
+    "rewrite": "i-am-duran",
+    "website": "https://moviesanywhere.com/movie/i-am-duran-2019",
+    "type": "Movie",
+    "media": {
+      "poster": "http://localhost:8080/app/images/cartaz.jpg",
+      "image": "http://localhost:8080/app/images/16x9.jpg",
+      "clip": "https://m.media-amazon.com/images/M/MV5BNGZiMzBkZjMtNjE3Mi00MWNlLWIyYjItYTk3MjY0Yjg5ODZkXkEyXkFqcGdeQXVyNDg4NjY5OTQ@._V1_SX300.jpg",
+      "trailer": "https://m.media-amazon.com/images/M/MV5BNGZiMzBkZjMtNjE3Mi00MWNlLWIyYjItYTk3MjY0Yjg5ODZkXkEyXkFqcGdeQXVyNDg4NjY5OTQ@._V1_SX300.jpg",
+      "timestampClip": "String",
+      "timestampTrailer": "String"
+    },
+    "meta": {
+      "likes": 0,
+      "stars": 0,
+      "views": 0
+    } 
+  },
+  {
+    "title": "The Armstrong Lie",
+    "description": "Lance Armstrong was considered one of the greatest sports figures of all time and put competitive cycling into the global spotlight, by beating cancer and winning the Tour de France seven times. That success earned him an immense fortune and worldwide fame. His was also one of the most influential and inspiring sports stories of recent memory and became a pop culture phenomenon, thanks to his Livestrong initiative. Beginning in 2009, Academy Award winning documentarian Alex Gibney followed Armstrong for four years chronicling his return to cycling after retirement, as he tried to win his eighth title. Unexpectedly, Gibney was also there in 2012 when Armstrong admitted to doping, following a federal criminal investigation, public accusations of doping by his ex-teammates, and an investigation by the US Anti-Doping Agency, that led USADA's CEO, Travis Tygart, to conclude that Armstrong's team had run 'the most sophisticated, professionalized and successful doping program that sport has ever seen.",
+    "director": "Alex Gibney",
+    "writer": "Alex Gibney",
+    "language": "English",
+    "year": 2016,
+    "actors": "Lance Armstrong",
+    "country": "USA",
+    "production": "Sprocket Productions, Inc",
+    "category": "Biopic, Drama, Sports, Documentary",
+    "rewrite": "the-armstrong-lie",
+    "website": "https://moviesanywhere.com/movie/the-armstrong-lie",
+    "type": "Movie",
+    "media": {
+      "poster": "http://localhost:8080/app/images/cartaz.jpg",
+      "image": "http://localhost:8080/app/images/16x9.jpg",
+      "clip": "https://m.media-amazon.com/images/M/MV5BNGZiMzBkZjMtNjE3Mi00MWNlLWIyYjItYTk3MjY0Yjg5ODZkXkEyXkFqcGdeQXVyNDg4NjY5OTQ@._V1_SX300.jpg",
+      "trailer": "https://m.media-amazon.com/images/M/MV5BNGZiMzBkZjMtNjE3Mi00MWNlLWIyYjItYTk3MjY0Yjg5ODZkXkEyXkFqcGdeQXVyNDg4NjY5OTQ@._V1_SX300.jpg",
+      "timestampClip": "String",
+      "timestampTrailer": "String"
+    },
+    "meta": {
+      "likes": 0,
+      "stars": 0,
+      "views": 0
+    } 
+  },
+  {
+    "title": "Conor McGregor: Notorious",
+    "description": "Conor McGregor is the biggest star in the history of Mixed Martial Arts. Filmed over the course of 4 years, Notorious is the exclusive, all access account of Conor’s meteoric rise from claiming benefits and living in his parents’ spare room in Dublin to claiming multiple championship UFC belts and seven figure pay-packets in Las Vegas. Featuring unprecedented access, never before seen moments and explosive fight footage, this is the ultimate behind-the-scenes look at a sporting icon and his spectacular rise from the bottom to the very top.",
+    "director": "Gavin Fitzgerald",
+    "writer": "Graeme McDonnell, Jamie Lee D’Alton",
+    "language": "English",
+    "year": 2016,
+    "actors": "Conor McGregor, Dee Devlin, John Kavanagh, Artem Lobov, Owen Roddy",
+    "country": "USA",
+    "production": "Duran Films Limited",
+    "category": "Documentary, Biopic, Sports, Martial Arts",
+    "rewrite": "conor-mcgregor-notorious",
+    "website": "https://moviesanywhere.com/movie/conor-mcgregor-notorious",
+    "type": "Movie",
+    "media": {
+      "poster": "http://localhost:8080/app/images/cartaz.jpg",
+      "image": "http://localhost:8080/app/images/16x9.jpg",
+      "clip": "https://m.media-amazon.com/images/M/MV5BNGZiMzBkZjMtNjE3Mi00MWNlLWIyYjItYTk3MjY0Yjg5ODZkXkEyXkFqcGdeQXVyNDg4NjY5OTQ@._V1_SX300.jpg",
+      "trailer": "https://m.media-amazon.com/images/M/MV5BNGZiMzBkZjMtNjE3Mi00MWNlLWIyYjItYTk3MjY0Yjg5ODZkXkEyXkFqcGdeQXVyNDg4NjY5OTQ@._V1_SX300.jpg",
+      "timestampClip": "String",
+      "timestampTrailer": "String"
+    },
+    "meta": {
+      "likes": 0,
+      "stars": 0,
+      "views": 0
+    } 
+  },
+  {
+    "title": "Life",
+    "description": "A space thriller about the discovery of intelligent alien life.",
+    "director": "Daniel Espinosa",
+    "writer": "Rhett Reese, Paul Wernick",
+    "language": "English",
+    "year": 2017,
+    "actors": "Ryan Reynolds, Jake Gyllenhaal",
+    "country": "USA",
+    "production": "Skydance Productions",
+    "category": "Sci-Fi, Horror, Thriller",
+    "rewrite": "life-2017",
+    "website": "https://moviesanywhere.com/movie/life-2017",
+    "type": "Movie",
+    "media": {
+      "poster": "http://localhost:8080/app/images/cartaz.jpg",
+      "image": "http://localhost:8080/app/images/16x9.jpg",
+      "clip": "https://m.media-amazon.com/images/M/MV5BNGZiMzBkZjMtNjE3Mi00MWNlLWIyYjItYTk3MjY0Yjg5ODZkXkEyXkFqcGdeQXVyNDg4NjY5OTQ@._V1_SX300.jpg",
+      "trailer": "https://m.media-amazon.com/images/M/MV5BNGZiMzBkZjMtNjE3Mi00MWNlLWIyYjItYTk3MjY0Yjg5ODZkXkEyXkFqcGdeQXVyNDg4NjY5OTQ@._V1_SX300.jpg",
+      "timestampClip": "String",
+      "timestampTrailer": "String"
+    },
+    "meta": {
+      "likes": 0,
+      "stars": 0,
+      "views": 0
+    } 
+  },
+  {
+    "title": "Alien Covenant",
+    "description": "Ridley Scott returns to the universe he created, with ALIEN: COVENANT, a new chapter in his groundbreaking ALIEN franchise. The crew of the colony ship Covenant, bound for a remote planet on the far side of the galaxy, discovers what they think is an uncharted paradise but is actually a dark, dangerous world. When they uncover a threat beyond their imagination they must attempt a harrowing escape.",
+    "director": "Ridley Scott",
+    "writer": "Rhett Reese, Paul Wernick",
+    "language": "English",
+    "year": 2017,
+    "actors": "Michael Fassbender, Katherine Waterston, Billy Crudup, Danny McBride, Demián Bichir",
+    "country": "USA",
+    "production": "Twentieth Century Fox Film Corporation",
+    "category": "Sci-Fi, Horror",
+    "rewrite": "alien-covenant",
+    "website": "https://moviesanywhere.com/movie/alien-covenant",
+    "type": "Movie",
+    "media": {
+      "poster": "http://localhost:8080/app/images/cartaz.jpg",
+      "image": "http://localhost:8080/app/images/16x9.jpg",
+      "clip": "https://m.media-amazon.com/images/M/MV5BNGZiMzBkZjMtNjE3Mi00MWNlLWIyYjItYTk3MjY0Yjg5ODZkXkEyXkFqcGdeQXVyNDg4NjY5OTQ@._V1_SX300.jpg",
+      "trailer": "https://m.media-amazon.com/images/M/MV5BNGZiMzBkZjMtNjE3Mi00MWNlLWIyYjItYTk3MjY0Yjg5ODZkXkEyXkFqcGdeQXVyNDg4NjY5OTQ@._V1_SX300.jpg",
+      "timestampClip": "String",
+      "timestampTrailer": "String"
+    },
+    "meta": {
+      "likes": 0,
+      "stars": 0,
+      "views": 0
+    } 
+  },
+  {
+    "title": "Resident Evil - The Final Chapter",
+    "description": "Picking up after Resident Evil: Retribution, Alice (Milla Jovovich) is the only survivor of what was meant to be humanity’s final stand against the undead. Now, she must return to where the nightmare began – The Hive in Raccoon City, where the Umbrella Corporation is gathering its forces for a final strike against the only remaining survivors of the apocalypse.",
+    "director": "Paul W.S. Anderson",
+    "writer": "Paul W.S. Anderson",
+    "language": "English",
+    "year": 2016,
+    "actors": "Milla Jovovich, Ruby Rose, Ali Larter",
+    "country": "USA",
+    "production": "Twentieth Century Fox Film Corporation",
+    "category": "Sci-Fi, Action, Horror",
+    "rewrite": "resident-evil-the-final-chapter",
+    "website": "https://moviesanywhere.com/movie/resident-evil-the-final-chapter-2017",
+    "type": "Movie",
+    "media": {
+      "poster": "http://localhost:8080/app/images/cartaz.jpg",
+      "image": "http://localhost:8080/app/images/16x9.jpg",
+      "clip": "https://m.media-amazon.com/images/M/MV5BNGZiMzBkZjMtNjE3Mi00MWNlLWIyYjItYTk3MjY0Yjg5ODZkXkEyXkFqcGdeQXVyNDg4NjY5OTQ@._V1_SX300.jpg",
+      "trailer": "https://m.media-amazon.com/images/M/MV5BNGZiMzBkZjMtNjE3Mi00MWNlLWIyYjItYTk3MjY0Yjg5ODZkXkEyXkFqcGdeQXVyNDg4NjY5OTQ@._V1_SX300.jpg",
+      "timestampClip": "String",
+      "timestampTrailer": "String"
+    },
+    "meta": {
+      "likes": 0,
+      "stars": 0,
+      "views": 0
+    } 
+  },
+  {
+    "title": "Predator 2",
+    "description": "Danny Glover stars in this electrifying sequel as a police lieutenant grappling with a pileup of mangled bodies found by his officers. But instead of being the work of feuding gangs, as he first thought, the vicious slayings have been perpetrated by a deadly, invisible alien creature. Now, not only is the alien in the urban jungle of Los Angeles – the lieutenant is its next intended target!",
+    "director": "Stephen Hopkins",
+    "writer": "John Thomas, Jim Thomas",
+    "language": "English",
+    "year": 1990,
+    "actors": "Danny Glover, Gary Busey, Ruben Blades, Maria Conchita Alonzo, Bill Paxton, Robert Davi, Kashka",
+    "country": "USA",
+    "production": "Twentieth Century Fox Film Corporation",
+    "category": "Sci-Fi, Action, Horror",
+    "rewrite": "predator-2",
+    "website": "https://moviesanywhere.com/movie/predator-2",
+    "type": "Movie",
+    "media": {
+      "poster": "http://localhost:8080/app/images/cartaz.jpg",
+      "image": "http://localhost:8080/app/images/16x9.jpg",
+      "clip": "https://m.media-amazon.com/images/M/MV5BNGZiMzBkZjMtNjE3Mi00MWNlLWIyYjItYTk3MjY0Yjg5ODZkXkEyXkFqcGdeQXVyNDg4NjY5OTQ@._V1_SX300.jpg",
+      "trailer": "https://m.media-amazon.com/images/M/MV5BNGZiMzBkZjMtNjE3Mi00MWNlLWIyYjItYTk3MjY0Yjg5ODZkXkEyXkFqcGdeQXVyNDg4NjY5OTQ@._V1_SX300.jpg",
+      "timestampClip": "String",
+      "timestampTrailer": "String"
+    },
+    "meta": {
+      "likes": 0,
+      "stars": 0,
+      "views": 0
+    } 
+  },
+  {
+    "title": "Backdraft 2",
+    "description": "Fire investigator Sean McCaffrey, son of the late Steven 'Bull' McCaffrey, is now working at the same Chicago firehouse along with his uncle Brian (William Baldwin). When Sean is assigned to investigate a deadly fire, he and partner Maggie soon realize that they are dealing with something much more than a routine fire. The clues they discover lead them down a treacherous path of arson, murder, and international terrorism. Sean must use his intuition, along with the help of infamous jailed arsonist Ronald Bartel (Donald Sutherland), in a race to find out who is behind the fire and stop them from accomplishing their devious plans.",
+    "director": "Gonzalo Lopez-Gallego",
+    "writer": "Gregory Widen",
+    "language": "English",
+    "year": 1990,
+    "actors": "Joe Anderson, Alisha Bailey, Jessamine-Bliss Bell, William Baldwin, Donald Sutherland, Aaron McCusker, Cyril Nri",
+    "country": "USA",
+    "production": "Universal Studios",
+    "category": "Drama, Thriller, Action, Crime",
+    "rewrite": "backdraft-2",
+    "website": "https://moviesanywhere.com/movie/backdraft-2-2019",
+    "type": "Movie",
+    "media": {
+      "poster": "http://localhost:8080/app/images/cartaz.jpg",
+      "image": "http://localhost:8080/app/images/16x9.jpg",
+      "clip": "https://m.media-amazon.com/images/M/MV5BNGZiMzBkZjMtNjE3Mi00MWNlLWIyYjItYTk3MjY0Yjg5ODZkXkEyXkFqcGdeQXVyNDg4NjY5OTQ@._V1_SX300.jpg",
+      "trailer": "https://m.media-amazon.com/images/M/MV5BNGZiMzBkZjMtNjE3Mi00MWNlLWIyYjItYTk3MjY0Yjg5ODZkXkEyXkFqcGdeQXVyNDg4NjY5OTQ@._V1_SX300.jpg",
+      "timestampClip": "String",
+      "timestampTrailer": "String"
+    },
+    "meta": {
+      "likes": 0,
+      "stars": 0,
+      "views": 0
+    } 
+  },
+  {
+    "title": "The Equalizer",
+    "description": "In The Equalizer, Denzel Washington plays McCall, a man who believes he has put his mysterious past behind him and dedicated himself to beginning a new, quiet life. But when McCall meets Teri (Chloë Grace Moretz), a young girl under the control of ultra-violent Russian gangsters, he can't stand idly by - he has to help her. Armed with hidden skills that allow him to serve vengeance against anyone who would brutalize the helpless, McCall comes out of his self-imposed retirement and finds his desire for justice reawakened. If someone has a problem, if the odds are stacked against them, if they have nowhere else to turn, McCall will help. He is The Equalizer.",
+    "director": "Antoine Fuqua",
+    "writer": "Richard Wenk",
+    "language": "English",
+    "year": 2014,
+    "actors": "Denzel Washington, Marton Csokas, Chloe Grace Moretz, David Harbour, Haley Bennett, Bill Pullman, Melissa Leo, David Meunier, Johnny Skourtis, Alex Veadov, Vladimir Kulich, E. Roger Mitchell",
+    "country": "USA",
+    "production": "Columbia Pictures Industries, Inc",
+    "category": "Crime, Thriller, Drama, Action",
+    "rewrite": "the-equalizer",
+    "website": "https://moviesanywhere.com/movie/the-equalizer",
+    "type": "Movie",
+    "media": {
+      "poster": "http://localhost:8080/app/images/cartaz.jpg",
+      "image": "http://localhost:8080/app/images/16x9.jpg",
+      "clip": "https://m.media-amazon.com/images/M/MV5BNGZiMzBkZjMtNjE3Mi00MWNlLWIyYjItYTk3MjY0Yjg5ODZkXkEyXkFqcGdeQXVyNDg4NjY5OTQ@._V1_SX300.jpg",
+      "trailer": "https://m.media-amazon.com/images/M/MV5BNGZiMzBkZjMtNjE3Mi00MWNlLWIyYjItYTk3MjY0Yjg5ODZkXkEyXkFqcGdeQXVyNDg4NjY5OTQ@._V1_SX300.jpg",
+      "timestampClip": "String",
+      "timestampTrailer": "String"
+    },
+    "meta": {
+      "likes": 0,
+      "stars": 0,
+      "views": 0
+    } 
+  },
+  {
+    "title": "The Equalizer 2",
+    "description": "Denzel Washington returns as Robert McCall, serving an unflinching justice for the exploited and oppressed – but this time it’s personal.",
+    "director": "Antoine Fuqua",
+    "writer": "Richard Wenk",
+    "language": "English",
+    "year": 2018,
+    "actors": "Denzel Washington, Pedro Pascal, Ashton Sanders, Orson Bean, Bill Pullman, Melissa Leo, Jonathan Scarfe, Sakina Jaffrey",
+    "country": "USA",
+    "production": "Columbia Pictures Industries. Inc",
+    "category": "Action, Crime, Thriller",
+    "rewrite": "the-equalizer-2",
+    "website": "https://moviesanywhere.com/movie/the-equalizer-2-2018",
+    "type": "Movie",
+    "media": {
+      "poster": "http://localhost:8080/app/images/cartaz.jpg",
+      "image": "http://localhost:8080/app/images/16x9.jpg",
+      "clip": "https://m.media-amazon.com/images/M/MV5BNGZiMzBkZjMtNjE3Mi00MWNlLWIyYjItYTk3MjY0Yjg5ODZkXkEyXkFqcGdeQXVyNDg4NjY5OTQ@._V1_SX300.jpg",
+      "trailer": "https://m.media-amazon.com/images/M/MV5BNGZiMzBkZjMtNjE3Mi00MWNlLWIyYjItYTk3MjY0Yjg5ODZkXkEyXkFqcGdeQXVyNDg4NjY5OTQ@._V1_SX300.jpg",
+      "timestampClip": "String",
+      "timestampTrailer": "String"
+    },
+    "meta": {
+      "likes": 0,
+      "stars": 0,
+      "views": 0
+    } 
+  },
+  {
+    "title": "Taken Extended",
+    "description": "When his estranged daughter is kidnapped in Paris, a former spy (Liam Neeson) sets out to find her at any cost. Relying on his special skills, he tracks down the ruthless gang that abducted her and launches a one-man war to bring them to justice and rescue his daughter.",
+    "director": "Pierre Morel",
+    "writer": "Luc Besson, Robert Mark Kamen",
+    "language": "English",
+    "year": 2018,
+    "actors": "Liam Neeson, Maggie Grace, Leland Orser, Jon Gries, David Warshofsky, Katie Cassidy, Holly Valance, Famke Janssen",
+    "country": "USA",
+    "production": "Twentieth Century Fox Film Corporation",
+    "category": "Action, Thriller, Crime",
+    "rewrite": "taken-extended",
+    "website": "https://moviesanywhere.com/movie/taken-extended-cut",
+    "type": "Movie",
+    "media": {
+      "poster": "http://localhost:8080/app/images/cartaz.jpg",
+      "image": "http://localhost:8080/app/images/16x9.jpg",
+      "clip": "https://m.media-amazon.com/images/M/MV5BNGZiMzBkZjMtNjE3Mi00MWNlLWIyYjItYTk3MjY0Yjg5ODZkXkEyXkFqcGdeQXVyNDg4NjY5OTQ@._V1_SX300.jpg",
+      "trailer": "https://m.media-amazon.com/images/M/MV5BNGZiMzBkZjMtNjE3Mi00MWNlLWIyYjItYTk3MjY0Yjg5ODZkXkEyXkFqcGdeQXVyNDg4NjY5OTQ@._V1_SX300.jpg",
+      "timestampClip": "String",
+      "timestampTrailer": "String"
+    },
+    "meta": {
+      "likes": 0,
+      "stars": 0,
+      "views": 0
+    } 
+  },
+  {
+    "title": "The Lion King",
+    "description": "Embark on an extraordinary coming-of-age adventure as Simba, a lion cub who cannot wait to be king, searches for his destiny in the great 'Circle of Life.' You will be thrilled by the breathtaking animation, unforgettable Academy Award winning music (1994: Best Original Score; Best Song, 'Can You Feel The Love Tonight'), and timeless story.",
+    "director": "Roger Allers, Rob Minkoff",
+    "writer": "Irene Mecchi, Jonathan Roberts, Linda Woolverton",
+    "language": "English",
+    "year": 1994,
+    "actors": "Jonathan Thomas, Matthew Broderick, James Jones, Jeremy Irons, Moira Kelly, Niketa Calame, Ernie Sabella, Nathan Lane, Robert Guillaume, Rowan Atkinson, Madge Sinclair, Whoopi Goldberg, Cheech Marin, Jim Cummings, Zoe Leader",
+    "country": "USA",
+    "production": "Walt Disney Pictures",
+    "category": "Musical, Animation, Blockbuster, Adventure, Family, Classics, Drama",
+    "rewrite": "the-lion-king",
+    "website": "https://moviesanywhere.com/movie/the-lion-king-1994",
+    "type": "Movie",
+    "media": {
+      "poster": "http://localhost:8080/app/images/cartaz.jpg",
+      "image": "http://localhost:8080/app/images/16x9.jpg",
+      "clip": "https://m.media-amazon.com/images/M/MV5BNGZiMzBkZjMtNjE3Mi00MWNlLWIyYjItYTk3MjY0Yjg5ODZkXkEyXkFqcGdeQXVyNDg4NjY5OTQ@._V1_SX300.jpg",
+      "trailer": "https://m.media-amazon.com/images/M/MV5BNGZiMzBkZjMtNjE3Mi00MWNlLWIyYjItYTk3MjY0Yjg5ODZkXkEyXkFqcGdeQXVyNDg4NjY5OTQ@._V1_SX300.jpg",
+      "timestampClip": "String",
+      "timestampTrailer": "String"
+    },
+    "meta": {
+      "likes": 0,
+      "stars": 0,
+      "views": 0
+    } 
+  },
+  {
+    "title": "Beauty and the Beast",
+    "description": "Be our guest at the enchanted 25th Anniversary celebration of Beauty and the Beast, universally acclaimed as one of Disney’s finest animated features and now honored in the Walt Disney Signature Collection. Join brave, independent Belle on the adventure of a lifetime as she sets out to rescue her father and finds herself in the enchanted castle of a mysterious beast. Enjoy this timeless tale overflowing with unforgettable characters and Academy Award®–winning music (Best Song, Best Score, 1991)!",
+    "director": "Gary Trousdale, Kirk Wise",
+    "writer": "Linda Woolverton",
+    "language": "English",
+    "year": 1994,
+    "actors": "Paige O'Hara, Robby Benson, Richard White, Jerry Orbach, David Stiers, Angela Lansbury, Bradley Pierce, Rex Everhart, Jesse Corti, Hal Smith, Jo Worley, Kimmy Robertson, Alvin Epstein, Tony Jay, Mary Kay Bergman, Kath Soucie, Brian Cummings, Alec Murphy, David Stiers, Frank Welker",
+    "country": "USA",
+    "production": "Walt Disney Pictures",
+    "category": "Animation, Kids, Family, Musical",
+    "rewrite": "beauty-and-the-beast",
+    "website": "https://moviesanywhere.com/movie/beauty-and-the-beast-1991",
+    "type": "Movie",
+    "media": {
+      "poster": "http://localhost:8080/app/images/cartaz.jpg",
+      "image": "http://localhost:8080/app/images/16x9.jpg",
+      "clip": "https://m.media-amazon.com/images/M/MV5BNGZiMzBkZjMtNjE3Mi00MWNlLWIyYjItYTk3MjY0Yjg5ODZkXkEyXkFqcGdeQXVyNDg4NjY5OTQ@._V1_SX300.jpg",
+      "trailer": "https://m.media-amazon.com/images/M/MV5BNGZiMzBkZjMtNjE3Mi00MWNlLWIyYjItYTk3MjY0Yjg5ODZkXkEyXkFqcGdeQXVyNDg4NjY5OTQ@._V1_SX300.jpg",
+      "timestampClip": "String",
+      "timestampTrailer": "String"
+    },
+    "meta": {
+      "likes": 0,
+      "stars": 0,
+      "views": 0
+    } 
+  },
+  {
+    "title": "Moana",
+    "description": "From Walt Disney Animation Studios comes Moana, an epic adventure about a spirited teen who sets sail on a daring mission to prove herself a master wayfinder and fulfill her ancestors’ unfinished quest. During her journey, Moana (Auli‘i Cravalho) meets the once mighty demigod Maui (Dwayne Johnson), and together they cross the ocean on a fun-filled, action-packed voyage, encountering enormous sea creatures, breathtaking underworlds and impossible odds. Along the way, Moana discovers the one thing she’s always sought: her own identity.",
+    "director": "John Musker, Ron Clements",
+    "writer": "Jared Bush",
+    "language": "English",
+    "year": 2016,
+    "actors": "Auli'i Cravalho, Dwayne Johnson, Rachel House, Temuera Morrison, Nicole Scherzinger, Jemaine Clement, Alan Tudyk, Alan Tudyk, Oscar Kightley, Troy Polamalu, Puanani Cravalho, Louise Bush",
+    "country": "USA",
+    "production": "Walt Disney Pictures",
+    "category": "Musical, Adventure, Action, Animation, Kids, Family",
+    "rewrite": "moana",
+    "website": "https://moviesanywhere.com/movie/moana-2016",
+    "type": "Movie",
+    "media": {
+      "poster": "http://localhost:8080/app/images/cartaz.jpg",
+      "image": "http://localhost:8080/app/images/16x9.jpg",
+      "clip": "https://m.media-amazon.com/images/M/MV5BNGZiMzBkZjMtNjE3Mi00MWNlLWIyYjItYTk3MjY0Yjg5ODZkXkEyXkFqcGdeQXVyNDg4NjY5OTQ@._V1_SX300.jpg",
+      "trailer": "https://m.media-amazon.com/images/M/MV5BNGZiMzBkZjMtNjE3Mi00MWNlLWIyYjItYTk3MjY0Yjg5ODZkXkEyXkFqcGdeQXVyNDg4NjY5OTQ@._V1_SX300.jpg",
+      "timestampClip": "String",
+      "timestampTrailer": "String"
+    },
+    "meta": {
+      "likes": 0,
+      "stars": 0,
+      "views": 0
+    } 
+  },
+  {
+    "title": "Aladdin",
+    "description": "In a mythical city, Aladdin, a street-smart commoner, and clever, confident Princess Jasmine join forces against the evil sorcerer Jafar and put an end to his plans to take over the kingdom! Along the way, Aladdin learns to believe in himself with the help of a hysterically funny, shape-shifting, 10,000-year-old Genie and three wishes that change everything!",
+    "director": "Ron Clements, John Musker",
+    "writer": "Ron Clements, John Musker, Ted Elliott, Terry Rossio",
+    "language": "English",
+    "year": 1992,
+    "actors": "Scott Weinger, Robin Williams, Linda Larkin, Jonathan Freeman, Frank Welker, Gilbert Gottfried, Douglas Seale, Robin Williams, Bruce Adler",
+    "country": "USA",
+    "production": "Walt Disney Pictures",
+    "category": "Animation, Comedy, Adventure, Musical, Kids, Family, Classics",
+    "rewrite": "aladdin",
+    "website": "https://moviesanywhere.com/movie/aladdin",
+    "type": "Movie",
+    "media": {
+      "poster": "http://localhost:8080/app/images/cartaz.jpg",
+      "image": "http://localhost:8080/app/images/16x9.jpg",
+      "clip": "https://m.media-amazon.com/images/M/MV5BNGZiMzBkZjMtNjE3Mi00MWNlLWIyYjItYTk3MjY0Yjg5ODZkXkEyXkFqcGdeQXVyNDg4NjY5OTQ@._V1_SX300.jpg",
+      "trailer": "https://m.media-amazon.com/images/M/MV5BNGZiMzBkZjMtNjE3Mi00MWNlLWIyYjItYTk3MjY0Yjg5ODZkXkEyXkFqcGdeQXVyNDg4NjY5OTQ@._V1_SX300.jpg",
+      "timestampClip": "String",
+      "timestampTrailer": "String"
+    },
+    "meta": {
+      "likes": 0,
+      "stars": 0,
+      "views": 0
+    } 
+  },
+  {
+    "title": "A Star is Born",
+    "description": "Nominated for 8 Academy Awards® and the winner for Best Original Song 'Shallow,' A Star Is Born returns with an extended cut. A Star Is Born Encore features nearly 12 minutes of extended music performances, intimate jam sessions with Jackson and Ally, and all new scenes. Seasoned musician Jackson Maine (Bradley Cooper) discovers—and falls in love with—struggling artist Ally (Lady Gaga). She has just about given up on her dream to make it big as a singer… until Jack coaxes her into the spotlight. But even as Ally’s career takes off, the personal side of their relationship is breaking down, as Jack fights an ongoing battle with his own internal demons.",
+    "director": "Bradley Cooper",
+    "writer": "Bradley Cooper, Eric Roth, Will Fetters",
+    "language": "English",
+    "year": 2018,
+    "actors": "Bradley Cooper, Lady Gaga, Andrew Dice Clay, Dave Chappelle, Sam Elliott",
+    "country": "USA",
+    "production": "Warner Bros. Entertainment Inc",
+    "category": "Music, Drama, Romance",
+    "rewrite": "a-star-is-born-encore",
+    "website": "https://moviesanywhere.com/movie/a-star-is-born-encore-2018",
+    "type": "Movie",
+    "media": {
+      "poster": "http://localhost:8080/app/images/cartaz.jpg",
+      "image": "http://localhost:8080/app/images/16x9.jpg",
+      "clip": "https://m.media-amazon.com/images/M/MV5BNGZiMzBkZjMtNjE3Mi00MWNlLWIyYjItYTk3MjY0Yjg5ODZkXkEyXkFqcGdeQXVyNDg4NjY5OTQ@._V1_SX300.jpg",
+      "trailer": "https://m.media-amazon.com/images/M/MV5BNGZiMzBkZjMtNjE3Mi00MWNlLWIyYjItYTk3MjY0Yjg5ODZkXkEyXkFqcGdeQXVyNDg4NjY5OTQ@._V1_SX300.jpg",
+      "timestampClip": "String",
+      "timestampTrailer": "String"
+    },
+    "meta": {
+      "likes": 0,
+      "stars": 0,
+      "views": 0
+    } 
+  },
+  {
+    "title": "American Sniper",
+    "description": "U.S. Navy SEAL Chris Kyle is sent to Iraq with only one mission to protect his brothers-in-arms. His pinpoint accuracy saves countless lives on the battlefield and, as stories of his courageous exploits spread, he earns the nickname 'Legend'. However, his reputation is also growing behind enemy lines, putting a price on his head and making him a prime target of insurgents. He is also facing a different kind of battle on the home front: striving to be a good husband and father from halfway around the world. Despite the danger, as well as the toll on his family at home, Chris serves through four harrowing tours of duty in Iraq, personifying the spirit of the SEAL creed to 'leave no one behind.' But upon returning to his wife, Taya Renae Kyle (Sienna Miller), and kids, Chris finds that it is the war he can't leave behind.",
+    "director": "Clint Eastwood",
+    "writer": "Jason Dean Hall",
+    "language": "English",
+    "year": 2014,
+    "actors": "Bradley Cooper, Sienna Miller, Jake McDorman, Luke Grimes, Navid Negahban, Keir O'Donnell",
+    "country": "USA",
+    "production": "Warner Bros. Entertainment Inc.",
+    "category": "Military, War, Biopic, Action, Drama",
+    "rewrite": "american-sniper",
+    "website": "https://moviesanywhere.com/movie/american-sniper",
+    "type": "Movie",
+    "media": {
+      "poster": "http://localhost:8080/app/images/cartaz.jpg",
+      "image": "http://localhost:8080/app/images/16x9.jpg",
+      "clip": "https://m.media-amazon.com/images/M/MV5BNGZiMzBkZjMtNjE3Mi00MWNlLWIyYjItYTk3MjY0Yjg5ODZkXkEyXkFqcGdeQXVyNDg4NjY5OTQ@._V1_SX300.jpg",
+      "trailer": "https://m.media-amazon.com/images/M/MV5BNGZiMzBkZjMtNjE3Mi00MWNlLWIyYjItYTk3MjY0Yjg5ODZkXkEyXkFqcGdeQXVyNDg4NjY5OTQ@._V1_SX300.jpg",
+      "timestampClip": "String",
+      "timestampTrailer": "String"
+    },
+    "meta": {
+      "likes": 0,
+      "stars": 0,
+      "views": 0
+    } 
+  },
+  {
+    "title": "The Mule",
+    "description": "Eastwood stars as Earl Stone, a man in his 80s who is broke, alone, and facing foreclosure of his business when he is offered a job that simply requires him to drive. Easy enough, but, unbeknownst to Earl, he's just signed on as a drug courier for a Mexican cartel. He does well--so well, in fact, that his cargo increases exponentially, and Earl is assigned a handler. But he isn't the only one keeping tabs on Earl; the mysterious new drug mule has also hit the radar of hard-charging DEA agent Colin Bates. And even as his money problems become a thing of the past, Earl's past mistakes start to weigh heavily on him, and it's uncertain if he'll have time to right those wrongs before law enforcement, or the cartel's enforcers, catch up to him.",
+    "director": "Clint Eastwood",
+    "writer": "Nick Schenk",
+    "language": "English",
+    "year": 2018,
+    "actors": "Clint Eastwood, Bradley Cooper, Laurence Fishburne, Michael Pena, Dianne Wiest, Andy Garcia, Ignacio Serricchio, Alison Eastwood, Taissa Farmiga",
+    "country": "USA",
+    "production": "Warner Bros. Entertainment Inc.",
+    "category": "Crime, Drama, Thriller",
+    "rewrite": "the-mule",
+    "website": "https://moviesanywhere.com/movie/the-mule-2018",
+    "type": "Movie",
+    "media": {
+      "poster": "http://localhost:8080/app/images/cartaz.jpg",
+      "image": "http://localhost:8080/app/images/16x9.jpg",
+      "clip": "https://m.media-amazon.com/images/M/MV5BNGZiMzBkZjMtNjE3Mi00MWNlLWIyYjItYTk3MjY0Yjg5ODZkXkEyXkFqcGdeQXVyNDg4NjY5OTQ@._V1_SX300.jpg",
+      "trailer": "https://m.media-amazon.com/images/M/MV5BNGZiMzBkZjMtNjE3Mi00MWNlLWIyYjItYTk3MjY0Yjg5ODZkXkEyXkFqcGdeQXVyNDg4NjY5OTQ@._V1_SX300.jpg",
+      "timestampClip": "String",
+      "timestampTrailer": "String"
+    },
+    "meta": {
+      "likes": 0,
+      "stars": 0,
+      "views": 0
+    } 
+  },
+  {
+    "title": "The Words",
+    "description": "There’s more than one way to take a man’s life... and THE WORDS couldn’t be truer. For Rory Jansen (Bradley Cooper), he’s achieved his every goal: a loving wife, critical success and a best-selling novel. The only problem is: he didn’t write it. Now, as his conscience starts to haunt him and his past wrongs are revealed, it’s difficult to tell fact from fiction. Zoë Saldana, Jeremy Irons, Olivia Wilde, Ben Barnes and Dennis Quaid star in this romantic drama that keeps you guessing until the very end.",
+    "director": "Brian Klugman, Lee Sternthal",
+    "writer": "Brian Klugman, Lee Sternthal",
+    "language": "English",
+    "year": 2012,
+    "actors": "Olivia Wilde, Zoe Saldana, Bradley Cooper, Jeremy Irons, Dennis Quaid",
+    "country": "USA",
+    "production": "The Words Movie LLC",
+    "category": "Thriller, Drama",
+    "rewrite": "the-words",
+    "website": "https://moviesanywhere.com/movie/the-words",
+    "type": "Movie",
+    "media": {
+      "poster": "http://localhost:8080/app/images/cartaz.jpg",
+      "image": "http://localhost:8080/app/images/16x9.jpg",
+      "clip": "https://m.media-amazon.com/images/M/MV5BNGZiMzBkZjMtNjE3Mi00MWNlLWIyYjItYTk3MjY0Yjg5ODZkXkEyXkFqcGdeQXVyNDg4NjY5OTQ@._V1_SX300.jpg",
+      "trailer": "https://m.media-amazon.com/images/M/MV5BNGZiMzBkZjMtNjE3Mi00MWNlLWIyYjItYTk3MjY0Yjg5ODZkXkEyXkFqcGdeQXVyNDg4NjY5OTQ@._V1_SX300.jpg",
+      "timestampClip": "String",
+      "timestampTrailer": "String"
+    },
+    "meta": {
+      "likes": 0,
+      "stars": 0,
+      "views": 0
+    } 
+  },
+  {
+    "title": "Joy",
+    "description": "Jennifer Lawrence stars in David O. Russell’s wild story of a family across four generations as Joy, a young woman who builds a business dynasty and becomes a matriarch. Allies become adversaries and adversaries become allies as Joy’s inner life and fierce imagination carry her through a world of unforgiving commerce in this emotional, human comedy also starring Bradley Cooper and Robert De Niro.",
+    "director": "David O. Russell",
+    "writer": "David O. Russell",
+    "language": "English",
+    "year": 2015,
+    "actors": "Jennifer Lawrence, Robert De Niro, Edgar Ramirez, Diane Ladd, Virginia Madsen, Isabella Rossellini, Bradley Cooper",
+    "country": "USA",
+    "production": "Twentieth Century Fox Film Corporation",
+    "category": "Biopic, Drama, Comedy",
+    "rewrite": "joy",
+    "website": "https://moviesanywhere.com/movie/joy",
+    "type": "Movie",
+    "media": {
+      "poster": "http://localhost:8080/app/images/cartaz.jpg",
+      "image": "http://localhost:8080/app/images/16x9.jpg",
+      "clip": "https://m.media-amazon.com/images/M/MV5BNGZiMzBkZjMtNjE3Mi00MWNlLWIyYjItYTk3MjY0Yjg5ODZkXkEyXkFqcGdeQXVyNDg4NjY5OTQ@._V1_SX300.jpg",
+      "trailer": "https://m.media-amazon.com/images/M/MV5BNGZiMzBkZjMtNjE3Mi00MWNlLWIyYjItYTk3MjY0Yjg5ODZkXkEyXkFqcGdeQXVyNDg4NjY5OTQ@._V1_SX300.jpg",
+      "timestampClip": "String",
+      "timestampTrailer": "String"
+    },
+    "meta": {
+      "likes": 0,
+      "stars": 0,
+      "views": 0
+    } 
+  },
+  {
+    "title": "Passengers",
+    "description": "Jennifer Lawrence and Chris Pratt star in a high-stakes adventure about two passengers, Jim and Aurora, onboard a spaceship transporting them to a new life on another planet.  The trip takes a deadly turn when their hibernation pods mysteriously wake them 90 years before they reach their destination.  As they try to unravel the mystery behind the malfunction, they begin to fall for each other only to discover that the ship itself is in grave danger.  With the lives of 5000 sleeping passengers at stake, only Jim and Aurora can save them all.",
+    "director": "Morten Tyldum",
+    "writer": "Jon Spaihts",
+    "language": "English",
+    "year": 2016,
+    "actors": "Jennifer Lawrence, Chris Pratt, Michael Sheen, Laurence Fishburne",
+    "country": "USA",
+    "production": "Columbia Pictures",
+    "category": "Sci-Fi, Drama, Romance",
+    "rewrite": "passengers",
+    "website": "https://moviesanywhere.com/movie/passengers",
+    "type": "Movie",
+    "media": {
+      "poster": "http://localhost:8080/app/images/cartaz.jpg",
+      "image": "http://localhost:8080/app/images/16x9.jpg",
+      "clip": "https://m.media-amazon.com/images/M/MV5BNGZiMzBkZjMtNjE3Mi00MWNlLWIyYjItYTk3MjY0Yjg5ODZkXkEyXkFqcGdeQXVyNDg4NjY5OTQ@._V1_SX300.jpg",
+      "trailer": "https://m.media-amazon.com/images/M/MV5BNGZiMzBkZjMtNjE3Mi00MWNlLWIyYjItYTk3MjY0Yjg5ODZkXkEyXkFqcGdeQXVyNDg4NjY5OTQ@._V1_SX300.jpg",
+      "timestampClip": "String",
+      "timestampTrailer": "String"
+    },
+    "meta": {
+      "likes": 0,
+      "stars": 0,
+      "views": 0
+    } 
+  },
+  {
+    "title": "X-Men",
+    "description": "An all-star cast, including Hugh Jackman, Michael Fassbender, James McAvoy, Halle Berry, Jennifer Lawrence, Ellen Page, Ian McKellen and Patrick Stewart, prepares for battle in this action-packed adventure. As Sentinel robots hunt down mutants and humans, the characters from the original X-Men trilogy join forces with their younger selves in an epic struggle to change the past—and save our future!",
+    "director": "Bryan Singer",
+    "writer": "Simon Kinberg",
+    "language": "English",
+    "year": 2014,
+    "actors": "Hugh Jackman, James McAvoy, Michael Fassbender, Jennifer Lawrence, Halle Berry, Anna Paquin, Ellen Page, Peter Dinklage, Ian McKellen, Patrick Stewart",
+    "country": "USA",
+    "production": "Twentieth Century Fox Film Corporation",
+    "category": "Sci-Fi, Fantasy, Action, Blockbuster",
+    "rewrite": "x-men",
+    "website": "https://moviesanywhere.com/movie/x-men-days-of-future-past",
+    "type": "Movie",
+    "media": {
+      "poster": "http://localhost:8080/app/images/cartaz.jpg",
+      "image": "http://localhost:8080/app/images/16x9.jpg",
+      "clip": "https://m.media-amazon.com/images/M/MV5BNGZiMzBkZjMtNjE3Mi00MWNlLWIyYjItYTk3MjY0Yjg5ODZkXkEyXkFqcGdeQXVyNDg4NjY5OTQ@._V1_SX300.jpg",
+      "trailer": "https://m.media-amazon.com/images/M/MV5BNGZiMzBkZjMtNjE3Mi00MWNlLWIyYjItYTk3MjY0Yjg5ODZkXkEyXkFqcGdeQXVyNDg4NjY5OTQ@._V1_SX300.jpg",
+      "timestampClip": "String",
+      "timestampTrailer": "String"
+    },
+    "meta": {
+      "likes": 0,
+      "stars": 0,
+      "views": 0
+    } 
+  },
+  {
+    "title": "Air",
+    "description": "In the near future, breathable air is nonexistent. Virtually all of humanity has disappeared and those chosen to reestablish society reside in a controlled state of suspended animation. Two engineers tasked with guarding the last hope for mankind struggle to preserve their own sanity and lives while administering to the vital task at hand. Starring Norman Reedus and two time Oscar® Nominee Djimon Hounsou (Best Supporting Actor, Blood Diamond, 2006 and In America, 2002).",
+    "director": "Christian Cantamessa",
+    "writer": "Christian Cantamessa, Chris Pasetto",
+    "language": "English",
+    "year": 2015,
+    "actors": "Norman Reedus, Djimon Hounsou, Sandrine Holt",
+    "country": "USA",
+    "production": "Automatik Entertainment. LLC",
+    "category": "Sci-Fi, Action, Thriller",
+    "rewrite": "air",
+    "website": "https://moviesanywhere.com/movie/air",
+    "type": "Movie",
+    "media": {
+      "poster": "http://localhost:8080/app/images/cartaz.jpg",
+      "image": "http://localhost:8080/app/images/16x9.jpg",
+      "clip": "https://m.media-amazon.com/images/M/MV5BNGZiMzBkZjMtNjE3Mi00MWNlLWIyYjItYTk3MjY0Yjg5ODZkXkEyXkFqcGdeQXVyNDg4NjY5OTQ@._V1_SX300.jpg",
+      "trailer": "https://m.media-amazon.com/images/M/MV5BNGZiMzBkZjMtNjE3Mi00MWNlLWIyYjItYTk3MjY0Yjg5ODZkXkEyXkFqcGdeQXVyNDg4NjY5OTQ@._V1_SX300.jpg",
+      "timestampClip": "String",
+      "timestampTrailer": "String"
+    },
+    "meta": {
+      "likes": 0,
+      "stars": 0,
+      "views": 0
+    } 
+  },
+  {
+    "title": "Planet of the Apes",
+    "description": "Gary Oldman, Jason Clarke, Keri Russell and Andy Serkis star in the thrilling next chapter of Planet of the Apes. Ten years after a deadly virus destroys most of humanity, the human survivors find themselves on the brink of war with a group of genetically enhanced apes led by Caesar, a war that could determine which species will dominate Earth.",
+    "director": "Matt Reeves",
+    "writer": "Mark Bomback, Amanda Silver, Rick Jaffa",
+    "language": "English",
+    "year": 2015,
+    "actors": "Andy Serkis, Jason Clarke, Gary Oldman, Keri Russell, Toby Kebbell, Kodi Smit-McPhee",
+    "country": "USA",
+    "production": "Twentieth Century Fox Film Corporation",
+    "category": "Sci-Fi, Disaster Movie, Thriller, Action, Drama",
+    "rewrite": "planet-of-the-apes",
+    "website": "https://moviesanywhere.com/movie/dawn-of-the-planet-of-the-apes",
+    "type": "Movie",
+    "media": {
+      "poster": "http://localhost:8080/app/images/cartaz.jpg",
+      "image": "http://localhost:8080/app/images/16x9.jpg",
+      "clip": "https://m.media-amazon.com/images/M/MV5BNGZiMzBkZjMtNjE3Mi00MWNlLWIyYjItYTk3MjY0Yjg5ODZkXkEyXkFqcGdeQXVyNDg4NjY5OTQ@._V1_SX300.jpg",
+      "trailer": "https://m.media-amazon.com/images/M/MV5BNGZiMzBkZjMtNjE3Mi00MWNlLWIyYjItYTk3MjY0Yjg5ODZkXkEyXkFqcGdeQXVyNDg4NjY5OTQ@._V1_SX300.jpg",
+      "timestampClip": "String",
+      "timestampTrailer": "String"
+    },
+    "meta": {
+      "likes": 0,
+      "stars": 0,
+      "views": 0
+    } 
+  },
+  {
+    "title": "The Maze Runner",
+    "description": "In this heart-pounding survival adventure based on the best-selling book, Thomas (Dylan O’Brien) wakes up trapped in a massive, ever-changing maze with a group of boys who have no memory of the outside world. Facing dangerous obstacles at every turn, Thomas and the others must race to piece together clues in order to discover their true purpose...and find a way out before it’s too late!",
+    "director": "Wes Ball",
+    "writer": "Noah Oppenheim, Grant Pierce Myers, T.S. Nowlin",
+    "language": "English",
+    "year": 2014,
+    "actors": "Dylan O'Brien, Kaya Scodelario, Thomas Brodie-Sangster, Will Poulter, Patricia Clarkson",
+    "country": "USA",
+    "production": "Twentieth Century Fox Film Corporation",
+    "category": "Sci-Fi, Thriller, Action, Teen",
+    "rewrite": "the-maze-runner",
+    "website": "https://moviesanywhere.com/movie/the-maze-runner",
+    "type": "Movie",
+    "media": {
+      "poster": "http://localhost:8080/app/images/cartaz.jpg",
+      "image": "http://localhost:8080/app/images/16x9.jpg",
+      "clip": "https://m.media-amazon.com/images/M/MV5BNGZiMzBkZjMtNjE3Mi00MWNlLWIyYjItYTk3MjY0Yjg5ODZkXkEyXkFqcGdeQXVyNDg4NjY5OTQ@._V1_SX300.jpg",
+      "trailer": "https://m.media-amazon.com/images/M/MV5BNGZiMzBkZjMtNjE3Mi00MWNlLWIyYjItYTk3MjY0Yjg5ODZkXkEyXkFqcGdeQXVyNDg4NjY5OTQ@._V1_SX300.jpg",
+      "timestampClip": "String",
+      "timestampTrailer": "String"
+    },
+    "meta": {
+      "likes": 0,
+      "stars": 0,
+      "views": 0
+    } 
+  },
+  {
+    "title": "Total Recall",
+    "description": "Welcome to Rekall, the company that can turn your dreams into real memories. For a factory worker named Douglas Quaid (Colin Farrell), even though he's got a beautiful wife (Kate Beckinsale) who he loves, the mind-trip sounds like the perfect vacation from his frustrating life - real memories of life as a super-spy might be just what he needs. But when the procedure goes horribly wrong, Quaid becomes a hunted man. Finding himself on the run from the police – controlled by Chancellor Cohaagen (Bryan Cranston), the leader of the free world – Quaid teams up with a rebel fighter (Jessica Biel) to find the head of the underground resistance (Bill Nighy) and stop Cohaagen. The line between fantasy and reality gets blurred and the fate of his world hangs in the balance as Quaid discovers his true identity, his true love, and his true fate.",
+    "director": "Len Wiseman",
+    "writer": "Kurt Wimmer, Mark Bomback",
+    "language": "English",
+    "year": 2012,
+    "actors": "Colin Farrell, Kate Beckinsale, Jessica Biel, Bryan Cranston, Bokeem Woodbine, John Cho, Bill Nighy",
+    "country": "USA",
+    "production": "Columbia Pictures Industries. Inc",
+    "category": "Sci-Fi, Thriller, Action",
+    "rewrite": "total-recall",
+    "website": "https://moviesanywhere.com/movie/total-recall-2012",
+    "type": "Movie",
+    "media": {
+      "poster": "http://localhost:8080/app/images/cartaz.jpg",
+      "image": "http://localhost:8080/app/images/16x9.jpg",
+      "clip": "https://m.media-amazon.com/images/M/MV5BNGZiMzBkZjMtNjE3Mi00MWNlLWIyYjItYTk3MjY0Yjg5ODZkXkEyXkFqcGdeQXVyNDg4NjY5OTQ@._V1_SX300.jpg",
+      "trailer": "https://m.media-amazon.com/images/M/MV5BNGZiMzBkZjMtNjE3Mi00MWNlLWIyYjItYTk3MjY0Yjg5ODZkXkEyXkFqcGdeQXVyNDg4NjY5OTQ@._V1_SX300.jpg",
+      "timestampClip": "String",
+      "timestampTrailer": "String"
+    },
+    "meta": {
+      "likes": 0,
+      "stars": 0,
+      "views": 0
+    } 
+  },
+  {
+    "title": "2012",
+    "description": "From Roland Emmerich, director of THE DAY AFTER TOMORROW and INDEPENDENCE DAY, comes the ultimate action-adventure film, exploding with groundbreaking special effects. As the world faces a catastrophe of apocalyptic proportions, cities collapse and continents crumble. 2012 brings an end to the world and tells of the heroic struggle of the survivors. Starring John Cusack, Chiwetel Ejiofor, Amanda Peet, Woody Harrelson and Danny Glover.",
+    "director": "Roland Emmerich",
+    "writer": "Roland Emmerich, Harald Kloser",
+    "language": "English",
+    "year": 2009,
+    "actors": "John Cusack, Chiwetel Ejiofor, Amanda Peet, Oliver Platt, Thandie Newton, George Segal, Tom McCarthy, Danny Glover, Woody Harrelson",
+    "country": "USA",
+    "production": "Columbia Pictures Industries. Inc",
+    "category": "Sci-Fi, Disaster Movie, Epic, Action, Adventure, Thriller",
+    "rewrite": "2012",
+    "website": "https://moviesanywhere.com/movie/2012",
+    "type": "Movie",
+    "media": {
+      "poster": "http://localhost:8080/app/images/cartaz.jpg",
+      "image": "http://localhost:8080/app/images/16x9.jpg",
+      "clip": "https://m.media-amazon.com/images/M/MV5BNGZiMzBkZjMtNjE3Mi00MWNlLWIyYjItYTk3MjY0Yjg5ODZkXkEyXkFqcGdeQXVyNDg4NjY5OTQ@._V1_SX300.jpg",
+      "trailer": "https://m.media-amazon.com/images/M/MV5BNGZiMzBkZjMtNjE3Mi00MWNlLWIyYjItYTk3MjY0Yjg5ODZkXkEyXkFqcGdeQXVyNDg4NjY5OTQ@._V1_SX300.jpg",
+      "timestampClip": "String",
+      "timestampTrailer": "String"
+    },
+    "meta": {
+      "likes": 0,
+      "stars": 0,
+      "views": 0
+    } 
+  },
+  {
+    "title": "The Signal",
+    "description": "Academy Award® nominee Laurence Fishburne, Brenton Thwaites, Olivia Cooke and Beau Knapp star in this mind-bending and suspenseful sci-fi thriller. Nic (Thwaites), his girlfriend Haley (Cooke) and his buddy Jonah (Knapp) take an unexpected detour from an idyllic cross-country road trip when they are contacted by a mysterious hacker who has gained entry into MIT’s secured network. But after a rendezvous in an eerily remote area goes awry, Nic wakes to a living nightmare in an isolation unit. Interrogated by Dr. Wallace Damon (Fishburne), Nic soon realizes that the only way to decipher the past… is to escape the present.",
+    "director": "William Eubank",
+    "writer": "William Eubank, Carlyle Eubank, David Frigerio",
+    "language": "English",
+    "year": 2014,
+    "actors": "Brenton Thwaites, Olivia Cooke, Beau Knapp, Lin Shaye, Robert Longstreet, Laurence Fishburne",
+    "country": "USA",
+    "production": "Focus Features",
+    "category": "Sci-Fi, Thriller, Action",
+    "rewrite": "the-signal",
+    "website": "https://moviesanywhere.com/movie/the-signal",
+    "type": "Movie",
+    "media": {
+      "poster": "http://localhost:8080/app/images/cartaz.jpg",
+      "image": "http://localhost:8080/app/images/16x9.jpg",
+      "clip": "https://m.media-amazon.com/images/M/MV5BNGZiMzBkZjMtNjE3Mi00MWNlLWIyYjItYTk3MjY0Yjg5ODZkXkEyXkFqcGdeQXVyNDg4NjY5OTQ@._V1_SX300.jpg",
+      "trailer": "https://m.media-amazon.com/images/M/MV5BNGZiMzBkZjMtNjE3Mi00MWNlLWIyYjItYTk3MjY0Yjg5ODZkXkEyXkFqcGdeQXVyNDg4NjY5OTQ@._V1_SX300.jpg",
+      "timestampClip": "String",
+      "timestampTrailer": "String"
+    },
+    "meta": {
+      "likes": 0,
+      "stars": 0,
+      "views": 0
+    } 
+  },
+  {
+    "title": "Transcendence",
+    "description": "Dr. Will Caster (Johnny Depp) is the foremost researcher in the field of Artificial Intelligence -- working to create a sentient machine that combines the collective intelligence of everything ever known with the full range of human emotions. His highly controversial experiments have made him famous, but they have also made him the prime target of anti-technology extremists who will do whatever it takes to stop him. In their attempt to destroy Will, they inadvertently become the catalyst for him to succeed -- to be a participant in his own transcendence. For his wife Evelyn (Rebecca Hall) and best friend Max Waters (Paul Bettany), both fellow researchers, the question is not if they can...but if they should. Their worst fears are realized as Will's thirst for knowledge evolves into a seemingly omnipresent quest for power, to what end is unknown. The only thing that is becoming terrifyingly clear is there may be no way to stop him.",
+    "director": "Wally Pfister",
+    "writer": "Jack Paglen",
+    "language": "English",
+    "year": 2014,
+    "actors": "Johnny Depp, Rebecca Hall, Paul Bettany, Morgan Freeman, Kate Mara, Cillian Murphy, Cole Hauser",
+    "country": "USA",
+    "production": "Alcon Entertainment. LLC",
+    "category": "Sci-Fi, Drama, Thriller",
+    "rewrite": "transcendence",
+    "website": "https://moviesanywhere.com/movie/transcendence",
+    "type": "Movie",
+    "media": {
+      "poster": "http://localhost:8080/app/images/cartaz.jpg",
+      "image": "http://localhost:8080/app/images/16x9.jpg",
+      "clip": "https://m.media-amazon.com/images/M/MV5BNGZiMzBkZjMtNjE3Mi00MWNlLWIyYjItYTk3MjY0Yjg5ODZkXkEyXkFqcGdeQXVyNDg4NjY5OTQ@._V1_SX300.jpg",
+      "trailer": "https://m.media-amazon.com/images/M/MV5BNGZiMzBkZjMtNjE3Mi00MWNlLWIyYjItYTk3MjY0Yjg5ODZkXkEyXkFqcGdeQXVyNDg4NjY5OTQ@._V1_SX300.jpg",
+      "timestampClip": "String",
+      "timestampTrailer": "String"
+    },
+    "meta": {
+      "likes": 0,
+      "stars": 0,
+      "views": 0
+    } 
+  },
+  {
+    "title": "Geostorm",
+    "description": "What if, in the wake of more than a decade of devastating weather events, we finally found a way to control Mother Nature and the destruction her tirades entail? When catastrophic climate change endangers Earth's very survival, world governments unite and create Project Dutch Boy: a global net of satellites surrounding the planet that are armed with geo-engineering technologies designed to stave off the natural disasters. After successfully protecting the planet for two years, something is starting to go wrong. Two estranged brothers (Gerard Butler, Jim Sturgess) are tasked with solving the program's malfunction before a worldwide Geostorm can engulf the planet.",
+    "director": "Dean Devlin",
+    "writer": "Dean Devlin, Paul Guyot",
+    "language": "English",
+    "year": 2017,
+    "actors": "Gerard Butler, Jim Sturgess, Abbie Cornish, Alexandra Maria Lara, Daniel Wu, Andy Garcia, Ed Harris",
+    "country": "USA",
+    "production": "Warner Bros. Entertainment Inc.",
+    "category": "Action, Adventure, Sci-Fi, Disaster Movie",
+    "rewrite": "geostorm",
+    "website": "https://moviesanywhere.com/movie/geostorm",
+    "type": "Movie",
+    "media": {
+      "poster": "http://localhost:8080/app/images/cartaz.jpg",
+      "image": "http://localhost:8080/app/images/16x9.jpg",
+      "clip": "https://m.media-amazon.com/images/M/MV5BNGZiMzBkZjMtNjE3Mi00MWNlLWIyYjItYTk3MjY0Yjg5ODZkXkEyXkFqcGdeQXVyNDg4NjY5OTQ@._V1_SX300.jpg",
+      "trailer": "https://m.media-amazon.com/images/M/MV5BNGZiMzBkZjMtNjE3Mi00MWNlLWIyYjItYTk3MjY0Yjg5ODZkXkEyXkFqcGdeQXVyNDg4NjY5OTQ@._V1_SX300.jpg",
+      "timestampClip": "String",
+      "timestampTrailer": "String"
+    },
+    "meta": {
+      "likes": 0,
+      "stars": 0,
+      "views": 0
+    } 
+  },
+  {
+    "title": "Gravity",
+    "description": "Academy Award® winners Sandra Bullock (The Blind Side) and George Clooney (Up in the Air, Syriana) star in this heart-pounding thriller written, directed and produced by Oscar® nominee Alfonso Cuarón (Children of Men) and set in the infinite and unforgiving realm of deep space. Bullock plays a brilliant medical engineer on her first shuttle mission, with Clooney as a veteran astronaut in command of his last flight before retiring. But on a seemingly routine spacewalk, disaster strikes. The shuttle is destroyed, leaving the two completely alone -- tethered to nothing but each other and spiraling out into the blackness. The deafening silence tells them they have lost any link to Earth...and any chance for rescue. As fear turns to panic, every gulp of air eats away at what little oxygen is left. But the only way home may be to go further out into the terrifying expanse of space.",
+    "director": "Alfonso Cuarón",
+    "writer": "Alfonso Cuarón, Jonás Cuarón",
+    "language": "English",
+    "year": 2013,
+    "actors": "Sandra Bullock, George Clooney",
+    "country": "USA",
+    "production": "Warner Bros. Entertainment Inc.",
+    "category": "Sci-Fi, Thriller, Drama, Disaster Movie",
+    "rewrite": "gravity",
+    "website": "https://moviesanywhere.com/movie/gravity",
+    "type": "Movie",
+    "media": {
+      "poster": "http://localhost:8080/app/images/cartaz.jpg",
+      "image": "http://localhost:8080/app/images/16x9.jpg",
+      "clip": "https://m.media-amazon.com/images/M/MV5BNGZiMzBkZjMtNjE3Mi00MWNlLWIyYjItYTk3MjY0Yjg5ODZkXkEyXkFqcGdeQXVyNDg4NjY5OTQ@._V1_SX300.jpg",
+      "trailer": "https://m.media-amazon.com/images/M/MV5BNGZiMzBkZjMtNjE3Mi00MWNlLWIyYjItYTk3MjY0Yjg5ODZkXkEyXkFqcGdeQXVyNDg4NjY5OTQ@._V1_SX300.jpg",
+      "timestampClip": "String",
+      "timestampTrailer": "String"
+    },
+    "meta": {
+      "likes": 0,
+      "stars": 0,
+      "views": 0
+    } 
+  },
+  {
+    "title": "Miss Congeniality 2",
+    "description": "Miss Congeniality 2: Armed And Fabulous, the highly anticipated sequel to the surprise smash hit Miss Congeniality, homes in on FBI agent Gracie Hart (Sandra Bullock) shortly after she successfully disarmed a threat against the Miss United States Pageant while working undercover as a contestant. Having become a media celebrity as a result of her pageant heroics, Gracie now spends more time at the salon than the shooting range, as she works the talk show circuit to promote her book. When her pageant friends--winner Cheryl (Heather Burns - Two Weeks Notice) and emcee Stan (William Shatner - Boston Legal)--are kidnapped in Las Vegas, Gracie jumps back into action to save them, putting herself at loggerheads with the FBI top brass, who don't want to risk losing their prized mascot and who fear she might not be up to the job anymore.",
+    "director": "John Pasquin",
+    "writer": "Marc Lawrence",
+    "language": "English",
+    "year": 2005,
+    "actors": "Sandra Bullock, Regina King, Enrique Murciano, William Shatner, Ernie Hudson, Heather Burns, Diedrich Bader, Treat Williams, Abraham Benrubi",
+    "country": "USA",
+    "production": "Warner Bros. Entertainment Inc.",
+    "category": "Comedy, Buddy Picture",
+    "rewrite": "miss-congeniality-2",
+    "website": "https://moviesanywhere.com/movie/miss-congeniality-2-armed-and-fabulous",
+    "type": "Movie",
+    "media": {
+      "poster": "http://localhost:8080/app/images/cartaz.jpg",
+      "image": "http://localhost:8080/app/images/16x9.jpg",
+      "clip": "https://m.media-amazon.com/images/M/MV5BNGZiMzBkZjMtNjE3Mi00MWNlLWIyYjItYTk3MjY0Yjg5ODZkXkEyXkFqcGdeQXVyNDg4NjY5OTQ@._V1_SX300.jpg",
+      "trailer": "https://m.media-amazon.com/images/M/MV5BNGZiMzBkZjMtNjE3Mi00MWNlLWIyYjItYTk3MjY0Yjg5ODZkXkEyXkFqcGdeQXVyNDg4NjY5OTQ@._V1_SX300.jpg",
+      "timestampClip": "String",
+      "timestampTrailer": "String"
+    },
+    "meta": {
+      "likes": 0,
+      "stars": 0,
+      "views": 0
+    } 
+  },
+  {
+    "title": "Atonement",
+    "description": "From the award-winning director of Pride and Prejudice comes a stunning, critically acclaimed epic story of love. When a young girl catches her sister in a passionate embrace with a childhood friend, her jealousy drives her to tell a lie that will irrevocably change the course of all their lives forever. Academy Award® nominee Keira Knightley and James McAvoy lead an all-star cast in the film critics are hailing the year's best picture (Thelma Adams, US Weekly).",
+    "director": "Joe Wright",
+    "writer": "Christopher Hampton",
+    "language": "English",
+    "year": 2007,
+    "actors": "Sandra Bullock, Regina King, Enrique Murciano, William Shatner, Ernie Hudson, Heather Burns, Diedrich Bader, Treat Williams, Abraham Benrubi",
+    "country": "USA",
+    "production": "Focus Features",
+    "category": "Epic, Period Piece, Drama, Romance",
+    "rewrite": "atonement",
+    "website": "https://moviesanywhere.com/movie/atonement",
+    "type": "Movie",
+    "media": {
+      "poster": "http://localhost:8080/app/images/cartaz.jpg",
+      "image": "http://localhost:8080/app/images/16x9.jpg",
+      "clip": "https://m.media-amazon.com/images/M/MV5BNGZiMzBkZjMtNjE3Mi00MWNlLWIyYjItYTk3MjY0Yjg5ODZkXkEyXkFqcGdeQXVyNDg4NjY5OTQ@._V1_SX300.jpg",
+      "trailer": "https://m.media-amazon.com/images/M/MV5BNGZiMzBkZjMtNjE3Mi00MWNlLWIyYjItYTk3MjY0Yjg5ODZkXkEyXkFqcGdeQXVyNDg4NjY5OTQ@._V1_SX300.jpg",
+      "timestampClip": "String",
+      "timestampTrailer": "String"
+    },
+    "meta": {
+      "likes": 0,
+      "stars": 0,
+      "views": 0
+    } 
+  }     
+]
+

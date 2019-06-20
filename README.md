@@ -1,4 +1,4 @@
-# Start project
+# Project
 
 
 ### Start project
@@ -84,3 +84,20 @@ https://laravel.com/docs/5.8/controllers
 
 $ vagrant halt
 $ vagrant destroy -f
+
+
+
+
+
+## Configure Robo 3T
+
+**Connection**
+
+![](git/Robo-3t-configure-2.png)
+
+
+
+**Authentication**
+
+![](git/Robo-3t-configure-1.png)
+

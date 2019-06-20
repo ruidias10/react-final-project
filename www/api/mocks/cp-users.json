@@ -1,0 +1,50 @@
+[
+    {
+      "name": "Leanne Graham",
+      "username": "Leanne",
+      "email": "sincpatriciaere@april.biz",
+      "type": "admin",
+      "pass": "21232F297A57A5A743894A0E4A801FC3", /*admin -> md5*/
+      "token": "9BB9D9C55F5F47EF88848F9AE57E6vNnK0wL7teRxBxhyWR@y0%SZ%",
+      "movies": {
+        "viewed": [
+          {"id": "1212"}
+        ],
+        "likes": [
+          {"id": "1212"}
+        ]      
+      }
+    }, 
+    {
+      "name": "Ervin Howell",
+      "username": "Ervin",
+      "email": "shanpatriciana@melissa.tv",
+      "type": "viewer",
+      "pass": "AA1BF4646DE67FD9086CF6C79007026C", /*teste123 -> md5*/
+      "token": "9mvJgNzV2VwPegqAvd8gItsylF0C8yFkB118A5A182DD835E828A",
+      "movies": {
+        "viewed": [
+          { "id": "111122334" }
+        ],
+        "likes": [
+          { "id": "12331234" }
+        ]      
+      }
+    }, 
+    {
+      "name": "Patricia Lebsack",
+      "username": "Patricia",
+      "email": "julipatriciaanne.oconner@kory.org",
+      "type": "viewer",
+      "pass": "A87888C4A498AF332CEDB9A0AFA5D813",  /*teste456 -> md5*/
+      "token": "B8C69grMy6KRfc75nGewydfjjD5qTxc4Sv1WkAB89E6182E188",
+      "movies": {
+        "viewed": [
+          { "id": "111122334" }
+        ],
+        "likes": [
+          { "id": "12331234" }
+        ]      
+      }
+    }   
+  ]

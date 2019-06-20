@@ -1,18 +1,16 @@
-const mongoose = require('mongoose');
-
 const Seed = require('./seed/SeedMongoose');
 const { mongodb } = require('./config/.env');
 
+const modelsPath =  __dirname + '/src/models';
+const mocksPath = __dirname + '/mocks';
+
 const options = {
     mongodb: {
-      user: mongodb.user,
-      password: mongodb.password,
-      server: mongodb.server,
-      database: mongodb.database
+      ...mongodb,
     },
     models: [
-      { path: __dirname + '/src/models/Movie.js', mock:  __dirname + '/mock/movies.json', name: 'Movie', clear: true },
-      { path: __dirname + '/src/models/User.js', mock:  __dirname + '/mock/users.json', name: 'User', clear: true }
+      { path: modelsPath + '/Movie.js', mock:  mocksPath + '/movies.json', name: 'Movie', clear: true },
+      { path: modelsPath + '/User.js', mock:  mocksPath + '/users.json', name: 'User', clear: true }
     ]
   };
 
