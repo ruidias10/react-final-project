@@ -14,9 +14,9 @@
     "website": "https://moviesanywhere.com/movie/marvel-studios-avengers-endgame",
     "type": "Movie",
     "media": {
-      "poster": "http://localhost:8080/app/images/cartaz2.jpg",
+      "poster": "http://localhost:8080/app/images/avengers-endgame.jpg",
       "image": "http://localhost:8080/app/images/16x9.jpg",
-      "clip": "https://m.media-amazon.com/images/M/MV5BNGZiMzBkZjMtNjE3Mi00MWNlLWIyYjItYTk3MjY0Yjg5ODZkXkEyXkFqcGdeQXVyNDg4NjY5OTQ@._V1_SX300.jpg",
+      "clip": "https://vjs.zencdn.net/v/oceans.mp4",
       "trailer": "https://m.media-amazon.com/images/M/MV5BNGZiMzBkZjMtNjE3Mi00MWNlLWIyYjItYTk3MjY0Yjg5ODZkXkEyXkFqcGdeQXVyNDg4NjY5OTQ@._V1_SX300.jpg",
       "timestampClip": "String",
       "timestampTrailer": "String"
@@ -42,9 +42,9 @@
     "website": "https://moviesanywhere.com/movie/men-in-black",
     "type": "Movie",
     "media": {
-      "poster": "http://localhost:8080/app/images/cartaz.jpg",
+      "poster": "http://localhost:8080/app/images/men-in-black.jpg",
       "image": "http://localhost:8080/app/images/16x9.jpg",
-      "clip": "https://m.media-amazon.com/images/M/MV5BNGZiMzBkZjMtNjE3Mi00MWNlLWIyYjItYTk3MjY0Yjg5ODZkXkEyXkFqcGdeQXVyNDg4NjY5OTQ@._V1_SX300.jpg",
+      "clip": "https://vjs.zencdn.net/v/oceans.mp4",
       "trailer": "https://m.media-amazon.com/images/M/MV5BNGZiMzBkZjMtNjE3Mi00MWNlLWIyYjItYTk3MjY0Yjg5ODZkXkEyXkFqcGdeQXVyNDg4NjY5OTQ@._V1_SX300.jpg",
       "timestampClip": "String",
       "timestampTrailer": "String"
@@ -70,9 +70,9 @@
     "website": "https://moviesanywhere.com/movie/Cinderella-1950-signature",
     "type": "Movie",
     "media": {
-      "poster": "http://localhost:8080/app/images/cartaz2.jpg",
+      "poster": "http://localhost:8080/app/images/cinderella.jpg",
       "image": "http://localhost:8080/app/images/16x9.jpg",
-      "clip": "https://m.media-amazon.com/images/M/MV5BNGZiMzBkZjMtNjE3Mi00MWNlLWIyYjItYTk3MjY0Yjg5ODZkXkEyXkFqcGdeQXVyNDg4NjY5OTQ@._V1_SX300.jpg",
+      "clip": "https://vjs.zencdn.net/v/oceans.mp4",
       "trailer": "https://m.media-amazon.com/images/M/MV5BNGZiMzBkZjMtNjE3Mi00MWNlLWIyYjItYTk3MjY0Yjg5ODZkXkEyXkFqcGdeQXVyNDg4NjY5OTQ@._V1_SX300.jpg",
       "timestampClip": "String",
       "timestampTrailer": "String"
@@ -94,13 +94,13 @@
     "country": "USA",
     "production": "BBC Films",
     "category": "Romance, Adventure",
-    "rewrite": "the-aftermath-2019",
+    "rewrite": "the-aftermath",
     "website": "https://moviesanywhere.com/movie/the-aftermath-2019",
     "type": "Movie",
     "media": {
-      "poster": "http://localhost:8080/app/images/cartaz.jpg",
+      "poster": "http://localhost:8080/app/images/the-aftermath.jpg",
       "image": "http://localhost:8080/app/images/16x9.jpg",
-      "clip": "https://m.media-amazon.com/images/M/MV5BNGZiMzBkZjMtNjE3Mi00MWNlLWIyYjItYTk3MjY0Yjg5ODZkXkEyXkFqcGdeQXVyNDg4NjY5OTQ@._V1_SX300.jpg",
+      "clip": "https://vjs.zencdn.net/v/oceans.mp4",
       "trailer": "https://m.media-amazon.com/images/M/MV5BNGZiMzBkZjMtNjE3Mi00MWNlLWIyYjItYTk3MjY0Yjg5ODZkXkEyXkFqcGdeQXVyNDg4NjY5OTQ@._V1_SX300.jpg",
       "timestampClip": "String",
       "timestampTrailer": "String"
@@ -122,13 +122,13 @@
     "country": "USA",
     "production": "Universal Studios",
     "category": "Horror, Thriller, Sci-Fi",
-    "rewrite": "us-2019",
+    "rewrite": "us",
     "website": "https://moviesanywhere.com/movie/us-2019",
     "type": "Movie",
     "media": {
-      "poster": "http://localhost:8080/app/images/cartaz2.jpg",
+      "poster": "http://localhost:8080/app/images/us.jpg",
       "image": "http://localhost:8080/app/images/16x9.jpg",
-      "clip": "https://m.media-amazon.com/images/M/MV5BNGZiMzBkZjMtNjE3Mi00MWNlLWIyYjItYTk3MjY0Yjg5ODZkXkEyXkFqcGdeQXVyNDg4NjY5OTQ@._V1_SX300.jpg",
+      "clip": "https://vjs.zencdn.net/v/oceans.mp4",
       "trailer": "https://m.media-amazon.com/images/M/MV5BNGZiMzBkZjMtNjE3Mi00MWNlLWIyYjItYTk3MjY0Yjg5ODZkXkEyXkFqcGdeQXVyNDg4NjY5OTQ@._V1_SX300.jpg",
       "timestampClip": "String",
       "timestampTrailer": "String"
@@ -150,13 +150,13 @@
     "country": "USA",
     "production": "Universal Studios",
     "category": "Documentary, Educational, Drama",
-    "rewrite": "apollo-11-2019",
+    "rewrite": "apollo-11",
     "website": "https://moviesanywhere.com/movie/apollo-11-2019",
     "type": "Movie",
     "media": {
-      "poster": "http://localhost:8080/app/images/cartaz.jpg",
+      "poster": "http://localhost:8080/app/images/apollo-11.jpg",
       "image": "http://localhost:8080/app/images/16x9.jpg",
-      "clip": "https://m.media-amazon.com/images/M/MV5BNGZiMzBkZjMtNjE3Mi00MWNlLWIyYjItYTk3MjY0Yjg5ODZkXkEyXkFqcGdeQXVyNDg4NjY5OTQ@._V1_SX300.jpg",
+      "clip": "https://vjs.zencdn.net/v/oceans.mp4",
       "trailer": "https://m.media-amazon.com/images/M/MV5BNGZiMzBkZjMtNjE3Mi00MWNlLWIyYjItYTk3MjY0Yjg5ODZkXkEyXkFqcGdeQXVyNDg4NjY5OTQ@._V1_SX300.jpg",
       "timestampClip": "String",
       "timestampTrailer": "String"
@@ -182,9 +182,9 @@
     "website": "https://moviesanywhere.com/movie/hotel-mumbai-2019",
     "type": "Movie",
     "media": {
-      "poster": "http://localhost:8080/app/images/cartaz.jpg",
+      "poster": "http://localhost:8080/app/images/hotel-mumbai.jpg",
       "image": "http://localhost:8080/app/images/16x9.jpg",
-      "clip": "https://m.media-amazon.com/images/M/MV5BNGZiMzBkZjMtNjE3Mi00MWNlLWIyYjItYTk3MjY0Yjg5ODZkXkEyXkFqcGdeQXVyNDg4NjY5OTQ@._V1_SX300.jpg",
+      "clip": "https://vjs.zencdn.net/v/oceans.mp4",
       "trailer": "https://m.media-amazon.com/images/M/MV5BNGZiMzBkZjMtNjE3Mi00MWNlLWIyYjItYTk3MjY0Yjg5ODZkXkEyXkFqcGdeQXVyNDg4NjY5OTQ@._V1_SX300.jpg",
       "timestampClip": "String",
       "timestampTrailer": "String"
@@ -210,9 +210,9 @@
     "website": "https://moviesanywhere.com/movie/captive-state-2019",
     "type": "Movie",
     "media": {
-      "poster": "http://localhost:8080/app/images/cartaz.jpg",
+      "poster": "http://localhost:8080/app/images/captive-state.jpg",
       "image": "http://localhost:8080/app/images/16x9.jpg",
-      "clip": "https://m.media-amazon.com/images/M/MV5BNGZiMzBkZjMtNjE3Mi00MWNlLWIyYjItYTk3MjY0Yjg5ODZkXkEyXkFqcGdeQXVyNDg4NjY5OTQ@._V1_SX300.jpg",
+      "clip": "https://vjs.zencdn.net/v/oceans.mp4",
       "trailer": "https://m.media-amazon.com/images/M/MV5BNGZiMzBkZjMtNjE3Mi00MWNlLWIyYjItYTk3MjY0Yjg5ODZkXkEyXkFqcGdeQXVyNDg4NjY5OTQ@._V1_SX300.jpg",
       "timestampClip": "String",
       "timestampTrailer": "String"
@@ -238,9 +238,9 @@
     "website": "https://moviesanywhere.com/movie/i-am-duran-2019",
     "type": "Movie",
     "media": {
-      "poster": "http://localhost:8080/app/images/cartaz.jpg",
+      "poster": "http://localhost:8080/app/images/i-am-duran.jpg",
       "image": "http://localhost:8080/app/images/16x9.jpg",
-      "clip": "https://m.media-amazon.com/images/M/MV5BNGZiMzBkZjMtNjE3Mi00MWNlLWIyYjItYTk3MjY0Yjg5ODZkXkEyXkFqcGdeQXVyNDg4NjY5OTQ@._V1_SX300.jpg",
+      "clip": "https://vjs.zencdn.net/v/oceans.mp4",
       "trailer": "https://m.media-amazon.com/images/M/MV5BNGZiMzBkZjMtNjE3Mi00MWNlLWIyYjItYTk3MjY0Yjg5ODZkXkEyXkFqcGdeQXVyNDg4NjY5OTQ@._V1_SX300.jpg",
       "timestampClip": "String",
       "timestampTrailer": "String"
@@ -266,9 +266,9 @@
     "website": "https://moviesanywhere.com/movie/the-armstrong-lie",
     "type": "Movie",
     "media": {
-      "poster": "http://localhost:8080/app/images/cartaz.jpg",
+      "poster": "http://localhost:8080/app/images/the-armstrong-lie.jpg",
       "image": "http://localhost:8080/app/images/16x9.jpg",
-      "clip": "https://m.media-amazon.com/images/M/MV5BNGZiMzBkZjMtNjE3Mi00MWNlLWIyYjItYTk3MjY0Yjg5ODZkXkEyXkFqcGdeQXVyNDg4NjY5OTQ@._V1_SX300.jpg",
+      "clip": "https://vjs.zencdn.net/v/oceans.mp4",
       "trailer": "https://m.media-amazon.com/images/M/MV5BNGZiMzBkZjMtNjE3Mi00MWNlLWIyYjItYTk3MjY0Yjg5ODZkXkEyXkFqcGdeQXVyNDg4NjY5OTQ@._V1_SX300.jpg",
       "timestampClip": "String",
       "timestampTrailer": "String"
@@ -294,9 +294,9 @@
     "website": "https://moviesanywhere.com/movie/conor-mcgregor-notorious",
     "type": "Movie",
     "media": {
-      "poster": "http://localhost:8080/app/images/cartaz.jpg",
+      "poster": "http://localhost:8080/app/images/conor-mcgregor-notorious.jpg",
       "image": "http://localhost:8080/app/images/16x9.jpg",
-      "clip": "https://m.media-amazon.com/images/M/MV5BNGZiMzBkZjMtNjE3Mi00MWNlLWIyYjItYTk3MjY0Yjg5ODZkXkEyXkFqcGdeQXVyNDg4NjY5OTQ@._V1_SX300.jpg",
+      "clip": "https://vjs.zencdn.net/v/oceans.mp4",
       "trailer": "https://m.media-amazon.com/images/M/MV5BNGZiMzBkZjMtNjE3Mi00MWNlLWIyYjItYTk3MjY0Yjg5ODZkXkEyXkFqcGdeQXVyNDg4NjY5OTQ@._V1_SX300.jpg",
       "timestampClip": "String",
       "timestampTrailer": "String"
@@ -318,13 +318,13 @@
     "country": "USA",
     "production": "Skydance Productions",
     "category": "Sci-Fi, Horror, Thriller",
-    "rewrite": "life-2017",
+    "rewrite": "life",
     "website": "https://moviesanywhere.com/movie/life-2017",
     "type": "Movie",
     "media": {
-      "poster": "http://localhost:8080/app/images/cartaz.jpg",
+      "poster": "http://localhost:8080/app/images/life.jpg",
       "image": "http://localhost:8080/app/images/16x9.jpg",
-      "clip": "https://m.media-amazon.com/images/M/MV5BNGZiMzBkZjMtNjE3Mi00MWNlLWIyYjItYTk3MjY0Yjg5ODZkXkEyXkFqcGdeQXVyNDg4NjY5OTQ@._V1_SX300.jpg",
+      "clip": "https://vjs.zencdn.net/v/oceans.mp4",
       "trailer": "https://m.media-amazon.com/images/M/MV5BNGZiMzBkZjMtNjE3Mi00MWNlLWIyYjItYTk3MjY0Yjg5ODZkXkEyXkFqcGdeQXVyNDg4NjY5OTQ@._V1_SX300.jpg",
       "timestampClip": "String",
       "timestampTrailer": "String"
@@ -350,9 +350,9 @@
     "website": "https://moviesanywhere.com/movie/alien-covenant",
     "type": "Movie",
     "media": {
-      "poster": "http://localhost:8080/app/images/cartaz.jpg",
+      "poster": "http://localhost:8080/app/images/alien-covenant.jpg",
       "image": "http://localhost:8080/app/images/16x9.jpg",
-      "clip": "https://m.media-amazon.com/images/M/MV5BNGZiMzBkZjMtNjE3Mi00MWNlLWIyYjItYTk3MjY0Yjg5ODZkXkEyXkFqcGdeQXVyNDg4NjY5OTQ@._V1_SX300.jpg",
+      "clip": "https://vjs.zencdn.net/v/oceans.mp4",
       "trailer": "https://m.media-amazon.com/images/M/MV5BNGZiMzBkZjMtNjE3Mi00MWNlLWIyYjItYTk3MjY0Yjg5ODZkXkEyXkFqcGdeQXVyNDg4NjY5OTQ@._V1_SX300.jpg",
       "timestampClip": "String",
       "timestampTrailer": "String"
@@ -378,9 +378,9 @@
     "website": "https://moviesanywhere.com/movie/resident-evil-the-final-chapter-2017",
     "type": "Movie",
     "media": {
-      "poster": "http://localhost:8080/app/images/cartaz.jpg",
+      "poster": "http://localhost:8080/app/images/resident-evil-the-final-chapter.jpg",
       "image": "http://localhost:8080/app/images/16x9.jpg",
-      "clip": "https://m.media-amazon.com/images/M/MV5BNGZiMzBkZjMtNjE3Mi00MWNlLWIyYjItYTk3MjY0Yjg5ODZkXkEyXkFqcGdeQXVyNDg4NjY5OTQ@._V1_SX300.jpg",
+      "clip": "https://vjs.zencdn.net/v/oceans.mp4",
       "trailer": "https://m.media-amazon.com/images/M/MV5BNGZiMzBkZjMtNjE3Mi00MWNlLWIyYjItYTk3MjY0Yjg5ODZkXkEyXkFqcGdeQXVyNDg4NjY5OTQ@._V1_SX300.jpg",
       "timestampClip": "String",
       "timestampTrailer": "String"
@@ -406,9 +406,9 @@
     "website": "https://moviesanywhere.com/movie/predator-2",
     "type": "Movie",
     "media": {
-      "poster": "http://localhost:8080/app/images/cartaz.jpg",
+      "poster": "http://localhost:8080/app/images/predator-2.jpg",
       "image": "http://localhost:8080/app/images/16x9.jpg",
-      "clip": "https://m.media-amazon.com/images/M/MV5BNGZiMzBkZjMtNjE3Mi00MWNlLWIyYjItYTk3MjY0Yjg5ODZkXkEyXkFqcGdeQXVyNDg4NjY5OTQ@._V1_SX300.jpg",
+      "clip": "https://vjs.zencdn.net/v/oceans.mp4",
       "trailer": "https://m.media-amazon.com/images/M/MV5BNGZiMzBkZjMtNjE3Mi00MWNlLWIyYjItYTk3MjY0Yjg5ODZkXkEyXkFqcGdeQXVyNDg4NjY5OTQ@._V1_SX300.jpg",
       "timestampClip": "String",
       "timestampTrailer": "String"
@@ -434,9 +434,9 @@
     "website": "https://moviesanywhere.com/movie/backdraft-2-2019",
     "type": "Movie",
     "media": {
-      "poster": "http://localhost:8080/app/images/cartaz.jpg",
+      "poster": "http://localhost:8080/app/images/backdraft-2.jpg",
       "image": "http://localhost:8080/app/images/16x9.jpg",
-      "clip": "https://m.media-amazon.com/images/M/MV5BNGZiMzBkZjMtNjE3Mi00MWNlLWIyYjItYTk3MjY0Yjg5ODZkXkEyXkFqcGdeQXVyNDg4NjY5OTQ@._V1_SX300.jpg",
+      "clip": "https://vjs.zencdn.net/v/oceans.mp4",
       "trailer": "https://m.media-amazon.com/images/M/MV5BNGZiMzBkZjMtNjE3Mi00MWNlLWIyYjItYTk3MjY0Yjg5ODZkXkEyXkFqcGdeQXVyNDg4NjY5OTQ@._V1_SX300.jpg",
       "timestampClip": "String",
       "timestampTrailer": "String"
@@ -462,9 +462,9 @@
     "website": "https://moviesanywhere.com/movie/the-equalizer",
     "type": "Movie",
     "media": {
-      "poster": "http://localhost:8080/app/images/cartaz.jpg",
+      "poster": "http://localhost:8080/app/images/the-equalizer.jpg",
       "image": "http://localhost:8080/app/images/16x9.jpg",
-      "clip": "https://m.media-amazon.com/images/M/MV5BNGZiMzBkZjMtNjE3Mi00MWNlLWIyYjItYTk3MjY0Yjg5ODZkXkEyXkFqcGdeQXVyNDg4NjY5OTQ@._V1_SX300.jpg",
+      "clip": "https://vjs.zencdn.net/v/oceans.mp4",
       "trailer": "https://m.media-amazon.com/images/M/MV5BNGZiMzBkZjMtNjE3Mi00MWNlLWIyYjItYTk3MjY0Yjg5ODZkXkEyXkFqcGdeQXVyNDg4NjY5OTQ@._V1_SX300.jpg",
       "timestampClip": "String",
       "timestampTrailer": "String"
@@ -490,9 +490,9 @@
     "website": "https://moviesanywhere.com/movie/the-equalizer-2-2018",
     "type": "Movie",
     "media": {
-      "poster": "http://localhost:8080/app/images/cartaz.jpg",
+      "poster": "http://localhost:8080/app/images/the-equalizer-2.jpg",
       "image": "http://localhost:8080/app/images/16x9.jpg",
-      "clip": "https://m.media-amazon.com/images/M/MV5BNGZiMzBkZjMtNjE3Mi00MWNlLWIyYjItYTk3MjY0Yjg5ODZkXkEyXkFqcGdeQXVyNDg4NjY5OTQ@._V1_SX300.jpg",
+      "clip": "https://vjs.zencdn.net/v/oceans.mp4",
       "trailer": "https://m.media-amazon.com/images/M/MV5BNGZiMzBkZjMtNjE3Mi00MWNlLWIyYjItYTk3MjY0Yjg5ODZkXkEyXkFqcGdeQXVyNDg4NjY5OTQ@._V1_SX300.jpg",
       "timestampClip": "String",
       "timestampTrailer": "String"
@@ -518,9 +518,9 @@
     "website": "https://moviesanywhere.com/movie/taken-extended-cut",
     "type": "Movie",
     "media": {
-      "poster": "http://localhost:8080/app/images/cartaz.jpg",
+      "poster": "http://localhost:8080/app/images/taken-extended.jpg",
       "image": "http://localhost:8080/app/images/16x9.jpg",
-      "clip": "https://m.media-amazon.com/images/M/MV5BNGZiMzBkZjMtNjE3Mi00MWNlLWIyYjItYTk3MjY0Yjg5ODZkXkEyXkFqcGdeQXVyNDg4NjY5OTQ@._V1_SX300.jpg",
+      "clip": "https://vjs.zencdn.net/v/oceans.mp4",
       "trailer": "https://m.media-amazon.com/images/M/MV5BNGZiMzBkZjMtNjE3Mi00MWNlLWIyYjItYTk3MjY0Yjg5ODZkXkEyXkFqcGdeQXVyNDg4NjY5OTQ@._V1_SX300.jpg",
       "timestampClip": "String",
       "timestampTrailer": "String"
@@ -546,9 +546,9 @@
     "website": "https://moviesanywhere.com/movie/the-lion-king-1994",
     "type": "Movie",
     "media": {
-      "poster": "http://localhost:8080/app/images/cartaz.jpg",
+      "poster": "http://localhost:8080/app/images/the-lion-king.jpg",
       "image": "http://localhost:8080/app/images/16x9.jpg",
-      "clip": "https://m.media-amazon.com/images/M/MV5BNGZiMzBkZjMtNjE3Mi00MWNlLWIyYjItYTk3MjY0Yjg5ODZkXkEyXkFqcGdeQXVyNDg4NjY5OTQ@._V1_SX300.jpg",
+      "clip": "https://vjs.zencdn.net/v/oceans.mp4",
       "trailer": "https://m.media-amazon.com/images/M/MV5BNGZiMzBkZjMtNjE3Mi00MWNlLWIyYjItYTk3MjY0Yjg5ODZkXkEyXkFqcGdeQXVyNDg4NjY5OTQ@._V1_SX300.jpg",
       "timestampClip": "String",
       "timestampTrailer": "String"
@@ -574,9 +574,9 @@
     "website": "https://moviesanywhere.com/movie/beauty-and-the-beast-1991",
     "type": "Movie",
     "media": {
-      "poster": "http://localhost:8080/app/images/cartaz.jpg",
+      "poster": "http://localhost:8080/app/images/beauty-and-the-beast.jpg",
       "image": "http://localhost:8080/app/images/16x9.jpg",
-      "clip": "https://m.media-amazon.com/images/M/MV5BNGZiMzBkZjMtNjE3Mi00MWNlLWIyYjItYTk3MjY0Yjg5ODZkXkEyXkFqcGdeQXVyNDg4NjY5OTQ@._V1_SX300.jpg",
+      "clip": "https://vjs.zencdn.net/v/oceans.mp4",
       "trailer": "https://m.media-amazon.com/images/M/MV5BNGZiMzBkZjMtNjE3Mi00MWNlLWIyYjItYTk3MjY0Yjg5ODZkXkEyXkFqcGdeQXVyNDg4NjY5OTQ@._V1_SX300.jpg",
       "timestampClip": "String",
       "timestampTrailer": "String"
@@ -602,9 +602,9 @@
     "website": "https://moviesanywhere.com/movie/moana-2016",
     "type": "Movie",
     "media": {
-      "poster": "http://localhost:8080/app/images/cartaz.jpg",
+      "poster": "http://localhost:8080/app/images/moana.jpg",
       "image": "http://localhost:8080/app/images/16x9.jpg",
-      "clip": "https://m.media-amazon.com/images/M/MV5BNGZiMzBkZjMtNjE3Mi00MWNlLWIyYjItYTk3MjY0Yjg5ODZkXkEyXkFqcGdeQXVyNDg4NjY5OTQ@._V1_SX300.jpg",
+      "clip": "https://vjs.zencdn.net/v/oceans.mp4",
       "trailer": "https://m.media-amazon.com/images/M/MV5BNGZiMzBkZjMtNjE3Mi00MWNlLWIyYjItYTk3MjY0Yjg5ODZkXkEyXkFqcGdeQXVyNDg4NjY5OTQ@._V1_SX300.jpg",
       "timestampClip": "String",
       "timestampTrailer": "String"
@@ -630,9 +630,9 @@
     "website": "https://moviesanywhere.com/movie/aladdin",
     "type": "Movie",
     "media": {
-      "poster": "http://localhost:8080/app/images/cartaz.jpg",
+      "poster": "http://localhost:8080/app/images/aladdin.jpg",
       "image": "http://localhost:8080/app/images/16x9.jpg",
-      "clip": "https://m.media-amazon.com/images/M/MV5BNGZiMzBkZjMtNjE3Mi00MWNlLWIyYjItYTk3MjY0Yjg5ODZkXkEyXkFqcGdeQXVyNDg4NjY5OTQ@._V1_SX300.jpg",
+      "clip": "https://vjs.zencdn.net/v/oceans.mp4",
       "trailer": "https://m.media-amazon.com/images/M/MV5BNGZiMzBkZjMtNjE3Mi00MWNlLWIyYjItYTk3MjY0Yjg5ODZkXkEyXkFqcGdeQXVyNDg4NjY5OTQ@._V1_SX300.jpg",
       "timestampClip": "String",
       "timestampTrailer": "String"
@@ -658,9 +658,9 @@
     "website": "https://moviesanywhere.com/movie/a-star-is-born-encore-2018",
     "type": "Movie",
     "media": {
-      "poster": "http://localhost:8080/app/images/cartaz.jpg",
+      "poster": "http://localhost:8080/app/images/a-star-is-born-encore.jpg",
       "image": "http://localhost:8080/app/images/16x9.jpg",
-      "clip": "https://m.media-amazon.com/images/M/MV5BNGZiMzBkZjMtNjE3Mi00MWNlLWIyYjItYTk3MjY0Yjg5ODZkXkEyXkFqcGdeQXVyNDg4NjY5OTQ@._V1_SX300.jpg",
+      "clip": "https://vjs.zencdn.net/v/oceans.mp4",
       "trailer": "https://m.media-amazon.com/images/M/MV5BNGZiMzBkZjMtNjE3Mi00MWNlLWIyYjItYTk3MjY0Yjg5ODZkXkEyXkFqcGdeQXVyNDg4NjY5OTQ@._V1_SX300.jpg",
       "timestampClip": "String",
       "timestampTrailer": "String"
@@ -686,9 +686,9 @@
     "website": "https://moviesanywhere.com/movie/american-sniper",
     "type": "Movie",
     "media": {
-      "poster": "http://localhost:8080/app/images/cartaz.jpg",
+      "poster": "http://localhost:8080/app/images/american-sniper.jpg",
       "image": "http://localhost:8080/app/images/16x9.jpg",
-      "clip": "https://m.media-amazon.com/images/M/MV5BNGZiMzBkZjMtNjE3Mi00MWNlLWIyYjItYTk3MjY0Yjg5ODZkXkEyXkFqcGdeQXVyNDg4NjY5OTQ@._V1_SX300.jpg",
+      "clip": "https://vjs.zencdn.net/v/oceans.mp4",
       "trailer": "https://m.media-amazon.com/images/M/MV5BNGZiMzBkZjMtNjE3Mi00MWNlLWIyYjItYTk3MjY0Yjg5ODZkXkEyXkFqcGdeQXVyNDg4NjY5OTQ@._V1_SX300.jpg",
       "timestampClip": "String",
       "timestampTrailer": "String"
@@ -714,9 +714,9 @@
     "website": "https://moviesanywhere.com/movie/the-mule-2018",
     "type": "Movie",
     "media": {
-      "poster": "http://localhost:8080/app/images/cartaz.jpg",
+      "poster": "http://localhost:8080/app/images/the-mule.jpg",
       "image": "http://localhost:8080/app/images/16x9.jpg",
-      "clip": "https://m.media-amazon.com/images/M/MV5BNGZiMzBkZjMtNjE3Mi00MWNlLWIyYjItYTk3MjY0Yjg5ODZkXkEyXkFqcGdeQXVyNDg4NjY5OTQ@._V1_SX300.jpg",
+      "clip": "https://vjs.zencdn.net/v/oceans.mp4",
       "trailer": "https://m.media-amazon.com/images/M/MV5BNGZiMzBkZjMtNjE3Mi00MWNlLWIyYjItYTk3MjY0Yjg5ODZkXkEyXkFqcGdeQXVyNDg4NjY5OTQ@._V1_SX300.jpg",
       "timestampClip": "String",
       "timestampTrailer": "String"
@@ -742,9 +742,9 @@
     "website": "https://moviesanywhere.com/movie/the-words",
     "type": "Movie",
     "media": {
-      "poster": "http://localhost:8080/app/images/cartaz.jpg",
+      "poster": "http://localhost:8080/app/images/the-words.jpg",
       "image": "http://localhost:8080/app/images/16x9.jpg",
-      "clip": "https://m.media-amazon.com/images/M/MV5BNGZiMzBkZjMtNjE3Mi00MWNlLWIyYjItYTk3MjY0Yjg5ODZkXkEyXkFqcGdeQXVyNDg4NjY5OTQ@._V1_SX300.jpg",
+      "clip": "https://vjs.zencdn.net/v/oceans.mp4",
       "trailer": "https://m.media-amazon.com/images/M/MV5BNGZiMzBkZjMtNjE3Mi00MWNlLWIyYjItYTk3MjY0Yjg5ODZkXkEyXkFqcGdeQXVyNDg4NjY5OTQ@._V1_SX300.jpg",
       "timestampClip": "String",
       "timestampTrailer": "String"
@@ -770,9 +770,9 @@
     "website": "https://moviesanywhere.com/movie/joy",
     "type": "Movie",
     "media": {
-      "poster": "http://localhost:8080/app/images/cartaz.jpg",
+      "poster": "http://localhost:8080/app/images/joy.jpg",
       "image": "http://localhost:8080/app/images/16x9.jpg",
-      "clip": "https://m.media-amazon.com/images/M/MV5BNGZiMzBkZjMtNjE3Mi00MWNlLWIyYjItYTk3MjY0Yjg5ODZkXkEyXkFqcGdeQXVyNDg4NjY5OTQ@._V1_SX300.jpg",
+      "clip": "https://vjs.zencdn.net/v/oceans.mp4",
       "trailer": "https://m.media-amazon.com/images/M/MV5BNGZiMzBkZjMtNjE3Mi00MWNlLWIyYjItYTk3MjY0Yjg5ODZkXkEyXkFqcGdeQXVyNDg4NjY5OTQ@._V1_SX300.jpg",
       "timestampClip": "String",
       "timestampTrailer": "String"
@@ -798,9 +798,9 @@
     "website": "https://moviesanywhere.com/movie/passengers",
     "type": "Movie",
     "media": {
-      "poster": "http://localhost:8080/app/images/cartaz.jpg",
+      "poster": "http://localhost:8080/app/images/passengers.jpg",
       "image": "http://localhost:8080/app/images/16x9.jpg",
-      "clip": "https://m.media-amazon.com/images/M/MV5BNGZiMzBkZjMtNjE3Mi00MWNlLWIyYjItYTk3MjY0Yjg5ODZkXkEyXkFqcGdeQXVyNDg4NjY5OTQ@._V1_SX300.jpg",
+      "clip": "https://vjs.zencdn.net/v/oceans.mp4",
       "trailer": "https://m.media-amazon.com/images/M/MV5BNGZiMzBkZjMtNjE3Mi00MWNlLWIyYjItYTk3MjY0Yjg5ODZkXkEyXkFqcGdeQXVyNDg4NjY5OTQ@._V1_SX300.jpg",
       "timestampClip": "String",
       "timestampTrailer": "String"
@@ -826,9 +826,9 @@
     "website": "https://moviesanywhere.com/movie/x-men-days-of-future-past",
     "type": "Movie",
     "media": {
-      "poster": "http://localhost:8080/app/images/cartaz.jpg",
+      "poster": "http://localhost:8080/app/images/x-men.jpg",
       "image": "http://localhost:8080/app/images/16x9.jpg",
-      "clip": "https://m.media-amazon.com/images/M/MV5BNGZiMzBkZjMtNjE3Mi00MWNlLWIyYjItYTk3MjY0Yjg5ODZkXkEyXkFqcGdeQXVyNDg4NjY5OTQ@._V1_SX300.jpg",
+      "clip": "https://vjs.zencdn.net/v/oceans.mp4",
       "trailer": "https://m.media-amazon.com/images/M/MV5BNGZiMzBkZjMtNjE3Mi00MWNlLWIyYjItYTk3MjY0Yjg5ODZkXkEyXkFqcGdeQXVyNDg4NjY5OTQ@._V1_SX300.jpg",
       "timestampClip": "String",
       "timestampTrailer": "String"
@@ -854,9 +854,9 @@
     "website": "https://moviesanywhere.com/movie/air",
     "type": "Movie",
     "media": {
-      "poster": "http://localhost:8080/app/images/cartaz.jpg",
+      "poster": "http://localhost:8080/app/images/air.jpg",
       "image": "http://localhost:8080/app/images/16x9.jpg",
-      "clip": "https://m.media-amazon.com/images/M/MV5BNGZiMzBkZjMtNjE3Mi00MWNlLWIyYjItYTk3MjY0Yjg5ODZkXkEyXkFqcGdeQXVyNDg4NjY5OTQ@._V1_SX300.jpg",
+      "clip": "https://vjs.zencdn.net/v/oceans.mp4",
       "trailer": "https://m.media-amazon.com/images/M/MV5BNGZiMzBkZjMtNjE3Mi00MWNlLWIyYjItYTk3MjY0Yjg5ODZkXkEyXkFqcGdeQXVyNDg4NjY5OTQ@._V1_SX300.jpg",
       "timestampClip": "String",
       "timestampTrailer": "String"
@@ -882,9 +882,9 @@
     "website": "https://moviesanywhere.com/movie/dawn-of-the-planet-of-the-apes",
     "type": "Movie",
     "media": {
-      "poster": "http://localhost:8080/app/images/cartaz.jpg",
+      "poster": "http://localhost:8080/app/images/planet-of-the-apes.jpg",
       "image": "http://localhost:8080/app/images/16x9.jpg",
-      "clip": "https://m.media-amazon.com/images/M/MV5BNGZiMzBkZjMtNjE3Mi00MWNlLWIyYjItYTk3MjY0Yjg5ODZkXkEyXkFqcGdeQXVyNDg4NjY5OTQ@._V1_SX300.jpg",
+      "clip": "https://vjs.zencdn.net/v/oceans.mp4",
       "trailer": "https://m.media-amazon.com/images/M/MV5BNGZiMzBkZjMtNjE3Mi00MWNlLWIyYjItYTk3MjY0Yjg5ODZkXkEyXkFqcGdeQXVyNDg4NjY5OTQ@._V1_SX300.jpg",
       "timestampClip": "String",
       "timestampTrailer": "String"
@@ -910,9 +910,9 @@
     "website": "https://moviesanywhere.com/movie/the-maze-runner",
     "type": "Movie",
     "media": {
-      "poster": "http://localhost:8080/app/images/cartaz.jpg",
+      "poster": "http://localhost:8080/app/images/the-maze-runner.jpg",
       "image": "http://localhost:8080/app/images/16x9.jpg",
-      "clip": "https://m.media-amazon.com/images/M/MV5BNGZiMzBkZjMtNjE3Mi00MWNlLWIyYjItYTk3MjY0Yjg5ODZkXkEyXkFqcGdeQXVyNDg4NjY5OTQ@._V1_SX300.jpg",
+      "clip": "https://vjs.zencdn.net/v/oceans.mp4",
       "trailer": "https://m.media-amazon.com/images/M/MV5BNGZiMzBkZjMtNjE3Mi00MWNlLWIyYjItYTk3MjY0Yjg5ODZkXkEyXkFqcGdeQXVyNDg4NjY5OTQ@._V1_SX300.jpg",
       "timestampClip": "String",
       "timestampTrailer": "String"
@@ -938,9 +938,9 @@
     "website": "https://moviesanywhere.com/movie/total-recall-2012",
     "type": "Movie",
     "media": {
-      "poster": "http://localhost:8080/app/images/cartaz.jpg",
+      "poster": "http://localhost:8080/app/images/total-recall.jpg",
       "image": "http://localhost:8080/app/images/16x9.jpg",
-      "clip": "https://m.media-amazon.com/images/M/MV5BNGZiMzBkZjMtNjE3Mi00MWNlLWIyYjItYTk3MjY0Yjg5ODZkXkEyXkFqcGdeQXVyNDg4NjY5OTQ@._V1_SX300.jpg",
+      "clip": "https://vjs.zencdn.net/v/oceans.mp4",
       "trailer": "https://m.media-amazon.com/images/M/MV5BNGZiMzBkZjMtNjE3Mi00MWNlLWIyYjItYTk3MjY0Yjg5ODZkXkEyXkFqcGdeQXVyNDg4NjY5OTQ@._V1_SX300.jpg",
       "timestampClip": "String",
       "timestampTrailer": "String"
@@ -966,9 +966,9 @@
     "website": "https://moviesanywhere.com/movie/2012",
     "type": "Movie",
     "media": {
-      "poster": "http://localhost:8080/app/images/cartaz.jpg",
+      "poster": "http://localhost:8080/app/images/2012.jpg",
       "image": "http://localhost:8080/app/images/16x9.jpg",
-      "clip": "https://m.media-amazon.com/images/M/MV5BNGZiMzBkZjMtNjE3Mi00MWNlLWIyYjItYTk3MjY0Yjg5ODZkXkEyXkFqcGdeQXVyNDg4NjY5OTQ@._V1_SX300.jpg",
+      "clip": "https://vjs.zencdn.net/v/oceans.mp4",
       "trailer": "https://m.media-amazon.com/images/M/MV5BNGZiMzBkZjMtNjE3Mi00MWNlLWIyYjItYTk3MjY0Yjg5ODZkXkEyXkFqcGdeQXVyNDg4NjY5OTQ@._V1_SX300.jpg",
       "timestampClip": "String",
       "timestampTrailer": "String"
@@ -994,9 +994,9 @@
     "website": "https://moviesanywhere.com/movie/the-signal",
     "type": "Movie",
     "media": {
-      "poster": "http://localhost:8080/app/images/cartaz.jpg",
+      "poster": "http://localhost:8080/app/images/the-signal.jpg",
       "image": "http://localhost:8080/app/images/16x9.jpg",
-      "clip": "https://m.media-amazon.com/images/M/MV5BNGZiMzBkZjMtNjE3Mi00MWNlLWIyYjItYTk3MjY0Yjg5ODZkXkEyXkFqcGdeQXVyNDg4NjY5OTQ@._V1_SX300.jpg",
+      "clip": "https://vjs.zencdn.net/v/oceans.mp4",
       "trailer": "https://m.media-amazon.com/images/M/MV5BNGZiMzBkZjMtNjE3Mi00MWNlLWIyYjItYTk3MjY0Yjg5ODZkXkEyXkFqcGdeQXVyNDg4NjY5OTQ@._V1_SX300.jpg",
       "timestampClip": "String",
       "timestampTrailer": "String"
@@ -1022,9 +1022,9 @@
     "website": "https://moviesanywhere.com/movie/transcendence",
     "type": "Movie",
     "media": {
-      "poster": "http://localhost:8080/app/images/cartaz.jpg",
+      "poster": "http://localhost:8080/app/images/transcendence.jpg",
       "image": "http://localhost:8080/app/images/16x9.jpg",
-      "clip": "https://m.media-amazon.com/images/M/MV5BNGZiMzBkZjMtNjE3Mi00MWNlLWIyYjItYTk3MjY0Yjg5ODZkXkEyXkFqcGdeQXVyNDg4NjY5OTQ@._V1_SX300.jpg",
+      "clip": "https://vjs.zencdn.net/v/oceans.mp4",
       "trailer": "https://m.media-amazon.com/images/M/MV5BNGZiMzBkZjMtNjE3Mi00MWNlLWIyYjItYTk3MjY0Yjg5ODZkXkEyXkFqcGdeQXVyNDg4NjY5OTQ@._V1_SX300.jpg",
       "timestampClip": "String",
       "timestampTrailer": "String"
@@ -1050,9 +1050,9 @@
     "website": "https://moviesanywhere.com/movie/geostorm",
     "type": "Movie",
     "media": {
-      "poster": "http://localhost:8080/app/images/cartaz.jpg",
+      "poster": "http://localhost:8080/app/images/geostorm.jpg",
       "image": "http://localhost:8080/app/images/16x9.jpg",
-      "clip": "https://m.media-amazon.com/images/M/MV5BNGZiMzBkZjMtNjE3Mi00MWNlLWIyYjItYTk3MjY0Yjg5ODZkXkEyXkFqcGdeQXVyNDg4NjY5OTQ@._V1_SX300.jpg",
+      "clip": "https://vjs.zencdn.net/v/oceans.mp4",
       "trailer": "https://m.media-amazon.com/images/M/MV5BNGZiMzBkZjMtNjE3Mi00MWNlLWIyYjItYTk3MjY0Yjg5ODZkXkEyXkFqcGdeQXVyNDg4NjY5OTQ@._V1_SX300.jpg",
       "timestampClip": "String",
       "timestampTrailer": "String"
@@ -1078,9 +1078,9 @@
     "website": "https://moviesanywhere.com/movie/gravity",
     "type": "Movie",
     "media": {
-      "poster": "http://localhost:8080/app/images/cartaz.jpg",
+      "poster": "http://localhost:8080/app/images/gravity.jpg",
       "image": "http://localhost:8080/app/images/16x9.jpg",
-      "clip": "https://m.media-amazon.com/images/M/MV5BNGZiMzBkZjMtNjE3Mi00MWNlLWIyYjItYTk3MjY0Yjg5ODZkXkEyXkFqcGdeQXVyNDg4NjY5OTQ@._V1_SX300.jpg",
+      "clip": "https://vjs.zencdn.net/v/oceans.mp4",
       "trailer": "https://m.media-amazon.com/images/M/MV5BNGZiMzBkZjMtNjE3Mi00MWNlLWIyYjItYTk3MjY0Yjg5ODZkXkEyXkFqcGdeQXVyNDg4NjY5OTQ@._V1_SX300.jpg",
       "timestampClip": "String",
       "timestampTrailer": "String"
@@ -1106,9 +1106,9 @@
     "website": "https://moviesanywhere.com/movie/miss-congeniality-2-armed-and-fabulous",
     "type": "Movie",
     "media": {
-      "poster": "http://localhost:8080/app/images/cartaz.jpg",
+      "poster": "http://localhost:8080/app/images/miss-congeniality-2.jpg",
       "image": "http://localhost:8080/app/images/16x9.jpg",
-      "clip": "https://m.media-amazon.com/images/M/MV5BNGZiMzBkZjMtNjE3Mi00MWNlLWIyYjItYTk3MjY0Yjg5ODZkXkEyXkFqcGdeQXVyNDg4NjY5OTQ@._V1_SX300.jpg",
+      "clip": "https://vjs.zencdn.net/v/oceans.mp4",
       "trailer": "https://m.media-amazon.com/images/M/MV5BNGZiMzBkZjMtNjE3Mi00MWNlLWIyYjItYTk3MjY0Yjg5ODZkXkEyXkFqcGdeQXVyNDg4NjY5OTQ@._V1_SX300.jpg",
       "timestampClip": "String",
       "timestampTrailer": "String"
@@ -1134,9 +1134,9 @@
     "website": "https://moviesanywhere.com/movie/atonement",
     "type": "Movie",
     "media": {
-      "poster": "http://localhost:8080/app/images/cartaz.jpg",
+      "poster": "http://localhost:8080/app/images/atonement.jpg",
       "image": "http://localhost:8080/app/images/16x9.jpg",
-      "clip": "https://m.media-amazon.com/images/M/MV5BNGZiMzBkZjMtNjE3Mi00MWNlLWIyYjItYTk3MjY0Yjg5ODZkXkEyXkFqcGdeQXVyNDg4NjY5OTQ@._V1_SX300.jpg",
+      "clip": "https://vjs.zencdn.net/v/oceans.mp4",
       "trailer": "https://m.media-amazon.com/images/M/MV5BNGZiMzBkZjMtNjE3Mi00MWNlLWIyYjItYTk3MjY0Yjg5ODZkXkEyXkFqcGdeQXVyNDg4NjY5OTQ@._V1_SX300.jpg",
       "timestampClip": "String",
       "timestampTrailer": "String"

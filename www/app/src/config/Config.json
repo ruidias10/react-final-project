@@ -1,0 +1,21 @@
+{
+  "baseURL": "http://localhost:3001",
+  "endpoints": {
+    "movies": "/movies/",
+    "movie": "/movies/",
+    "users": "/users/",
+    "highlights": "/highlights/"
+  },
+  "cookie": {
+    "name": "app-login",
+    "dafaultTime": 2628000000
+  },
+  "admin": {
+    "pages":  [
+      { "name": "dashboard", "route": "/admin/dashboard/", "bootstrapClassName": "fas fa-fw fa-tachometer-alt" },
+      { "name": "movies", "route": "/admin/movies/", "bootstrapClassName": "fas fa-video" },
+      { "name": "users", "route": "/admin/users/", "bootstrapClassName": "fas fa-users" },
+      { "name": "highlights", "route": "/admin/highlights/", "bootstrapClassName": "fas fa-desktop" }
+    ]
+  }
+}
